@@ -1,0 +1,15 @@
+D:\C#\1DAY\StaticField\bin\Debug\net5.0\StaticField.exe
+D:\C#\1DAY\StaticField\bin\Debug\net5.0\StaticField.deps.json
+D:\C#\1DAY\StaticField\bin\Debug\net5.0\StaticField.runtimeconfig.json
+D:\C#\1DAY\StaticField\bin\Debug\net5.0\StaticField.runtimeconfig.dev.json
+D:\C#\1DAY\StaticField\bin\Debug\net5.0\StaticField.dll
+D:\C#\1DAY\StaticField\bin\Debug\net5.0\ref\StaticField.dll
+D:\C#\1DAY\StaticField\bin\Debug\net5.0\StaticField.pdb
+D:\C#\1DAY\StaticField\obj\Debug\net5.0\StaticField.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\1DAY\StaticField\obj\Debug\net5.0\StaticField.AssemblyInfoInputs.cache
+D:\C#\1DAY\StaticField\obj\Debug\net5.0\StaticField.AssemblyInfo.cs
+D:\C#\1DAY\StaticField\obj\Debug\net5.0\StaticField.csproj.CoreCompileInputs.cache
+D:\C#\1DAY\StaticField\obj\Debug\net5.0\StaticField.dll
+D:\C#\1DAY\StaticField\obj\Debug\net5.0\ref\StaticField.dll
+D:\C#\1DAY\StaticField\obj\Debug\net5.0\StaticField.pdb
+D:\C#\1DAY\StaticField\obj\Debug\net5.0\StaticField.genruntimeconfig.cache

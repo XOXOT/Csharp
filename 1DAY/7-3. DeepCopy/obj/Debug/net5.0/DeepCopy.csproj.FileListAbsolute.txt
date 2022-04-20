@@ -1,0 +1,15 @@
+D:\C#\1DAY\7-3. DeepCopy\bin\Debug\net5.0\DeepCopy.exe
+D:\C#\1DAY\7-3. DeepCopy\bin\Debug\net5.0\DeepCopy.deps.json
+D:\C#\1DAY\7-3. DeepCopy\bin\Debug\net5.0\DeepCopy.runtimeconfig.json
+D:\C#\1DAY\7-3. DeepCopy\bin\Debug\net5.0\DeepCopy.runtimeconfig.dev.json
+D:\C#\1DAY\7-3. DeepCopy\bin\Debug\net5.0\DeepCopy.dll
+D:\C#\1DAY\7-3. DeepCopy\bin\Debug\net5.0\ref\DeepCopy.dll
+D:\C#\1DAY\7-3. DeepCopy\bin\Debug\net5.0\DeepCopy.pdb
+D:\C#\1DAY\7-3. DeepCopy\obj\Debug\net5.0\DeepCopy.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\1DAY\7-3. DeepCopy\obj\Debug\net5.0\DeepCopy.AssemblyInfoInputs.cache
+D:\C#\1DAY\7-3. DeepCopy\obj\Debug\net5.0\DeepCopy.AssemblyInfo.cs
+D:\C#\1DAY\7-3. DeepCopy\obj\Debug\net5.0\DeepCopy.csproj.CoreCompileInputs.cache
+D:\C#\1DAY\7-3. DeepCopy\obj\Debug\net5.0\DeepCopy.dll
+D:\C#\1DAY\7-3. DeepCopy\obj\Debug\net5.0\ref\DeepCopy.dll
+D:\C#\1DAY\7-3. DeepCopy\obj\Debug\net5.0\DeepCopy.pdb
+D:\C#\1DAY\7-3. DeepCopy\obj\Debug\net5.0\DeepCopy.genruntimeconfig.cache
