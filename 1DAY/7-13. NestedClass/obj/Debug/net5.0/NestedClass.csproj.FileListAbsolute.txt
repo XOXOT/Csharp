@@ -1,0 +1,16 @@
+D:\C#\1DAY\7-13. NestedClass\bin\Debug\net5.0\NestedClass.exe
+D:\C#\1DAY\7-13. NestedClass\bin\Debug\net5.0\NestedClass.deps.json
+D:\C#\1DAY\7-13. NestedClass\bin\Debug\net5.0\NestedClass.runtimeconfig.json
+D:\C#\1DAY\7-13. NestedClass\bin\Debug\net5.0\NestedClass.runtimeconfig.dev.json
+D:\C#\1DAY\7-13. NestedClass\bin\Debug\net5.0\NestedClass.dll
+D:\C#\1DAY\7-13. NestedClass\bin\Debug\net5.0\ref\NestedClass.dll
+D:\C#\1DAY\7-13. NestedClass\bin\Debug\net5.0\NestedClass.pdb
+D:\C#\1DAY\7-13. NestedClass\obj\Debug\net5.0\NestedClass.csproj.AssemblyReference.cache
+D:\C#\1DAY\7-13. NestedClass\obj\Debug\net5.0\NestedClass.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\1DAY\7-13. NestedClass\obj\Debug\net5.0\NestedClass.AssemblyInfoInputs.cache
+D:\C#\1DAY\7-13. NestedClass\obj\Debug\net5.0\NestedClass.AssemblyInfo.cs
+D:\C#\1DAY\7-13. NestedClass\obj\Debug\net5.0\NestedClass.csproj.CoreCompileInputs.cache
+D:\C#\1DAY\7-13. NestedClass\obj\Debug\net5.0\NestedClass.dll
+D:\C#\1DAY\7-13. NestedClass\obj\Debug\net5.0\ref\NestedClass.dll
+D:\C#\1DAY\7-13. NestedClass\obj\Debug\net5.0\NestedClass.pdb
+D:\C#\1DAY\7-13. NestedClass\obj\Debug\net5.0\NestedClass.genruntimeconfig.cache
