@@ -1,0 +1,16 @@
+D:\C#\2DAY\7-17. ReadonlyMethod\obj\Debug\net5.0\ReadonlyMethod.csproj.AssemblyReference.cache
+D:\C#\2DAY\7-17. ReadonlyMethod\obj\Debug\net5.0\ReadonlyMethod.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\2DAY\7-17. ReadonlyMethod\obj\Debug\net5.0\ReadonlyMethod.AssemblyInfoInputs.cache
+D:\C#\2DAY\7-17. ReadonlyMethod\obj\Debug\net5.0\ReadonlyMethod.AssemblyInfo.cs
+D:\C#\2DAY\7-17. ReadonlyMethod\obj\Debug\net5.0\ReadonlyMethod.csproj.CoreCompileInputs.cache
+D:\C#\2DAY\7-17. ReadonlyMethod\bin\Debug\net5.0\ReadonlyMethod.exe
+D:\C#\2DAY\7-17. ReadonlyMethod\bin\Debug\net5.0\ReadonlyMethod.deps.json
+D:\C#\2DAY\7-17. ReadonlyMethod\bin\Debug\net5.0\ReadonlyMethod.runtimeconfig.json
+D:\C#\2DAY\7-17. ReadonlyMethod\bin\Debug\net5.0\ReadonlyMethod.runtimeconfig.dev.json
+D:\C#\2DAY\7-17. ReadonlyMethod\bin\Debug\net5.0\ReadonlyMethod.dll
+D:\C#\2DAY\7-17. ReadonlyMethod\bin\Debug\net5.0\ref\ReadonlyMethod.dll
+D:\C#\2DAY\7-17. ReadonlyMethod\bin\Debug\net5.0\ReadonlyMethod.pdb
+D:\C#\2DAY\7-17. ReadonlyMethod\obj\Debug\net5.0\ReadonlyMethod.dll
+D:\C#\2DAY\7-17. ReadonlyMethod\obj\Debug\net5.0\ref\ReadonlyMethod.dll
+D:\C#\2DAY\7-17. ReadonlyMethod\obj\Debug\net5.0\ReadonlyMethod.pdb
+D:\C#\2DAY\7-17. ReadonlyMethod\obj\Debug\net5.0\ReadonlyMethod.genruntimeconfig.cache

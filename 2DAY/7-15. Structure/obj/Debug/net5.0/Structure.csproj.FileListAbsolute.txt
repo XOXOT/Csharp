@@ -1,0 +1,16 @@
+D:\C#\2DAY\7-15. Structure\bin\Debug\net5.0\Structure.exe
+D:\C#\2DAY\7-15. Structure\bin\Debug\net5.0\Structure.deps.json
+D:\C#\2DAY\7-15. Structure\bin\Debug\net5.0\Structure.runtimeconfig.json
+D:\C#\2DAY\7-15. Structure\bin\Debug\net5.0\Structure.runtimeconfig.dev.json
+D:\C#\2DAY\7-15. Structure\bin\Debug\net5.0\Structure.dll
+D:\C#\2DAY\7-15. Structure\bin\Debug\net5.0\ref\Structure.dll
+D:\C#\2DAY\7-15. Structure\bin\Debug\net5.0\Structure.pdb
+D:\C#\2DAY\7-15. Structure\obj\Debug\net5.0\Structure.csproj.AssemblyReference.cache
+D:\C#\2DAY\7-15. Structure\obj\Debug\net5.0\Structure.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\2DAY\7-15. Structure\obj\Debug\net5.0\Structure.AssemblyInfoInputs.cache
+D:\C#\2DAY\7-15. Structure\obj\Debug\net5.0\Structure.AssemblyInfo.cs
+D:\C#\2DAY\7-15. Structure\obj\Debug\net5.0\Structure.csproj.CoreCompileInputs.cache
+D:\C#\2DAY\7-15. Structure\obj\Debug\net5.0\Structure.dll
+D:\C#\2DAY\7-15. Structure\obj\Debug\net5.0\ref\Structure.dll
+D:\C#\2DAY\7-15. Structure\obj\Debug\net5.0\Structure.pdb
+D:\C#\2DAY\7-15. Structure\obj\Debug\net5.0\Structure.genruntimeconfig.cache
