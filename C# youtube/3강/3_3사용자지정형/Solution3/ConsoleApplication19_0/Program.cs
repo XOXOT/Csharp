@@ -8,9 +8,9 @@ namespace ConsoleApplication19_0
 {
     public struct MyStruct
     {
-        public int Age;
-        public float Num2;
-        public bool IsReady;
+        public int Age; //디폴트 0
+        public float Num2; //디폴트 0
+        public bool IsReady; //디폴트 false 
     }
 
     class Program

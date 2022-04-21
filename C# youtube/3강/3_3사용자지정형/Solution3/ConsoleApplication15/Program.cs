@@ -10,7 +10,7 @@ namespace ConsoleApplication15
     {
         public const float PI = 3.14f;
         public static int Age = 12;
-       
+        public /*static*/ int val;
     } 
    
 
@@ -18,7 +18,13 @@ namespace ConsoleApplication15
     {
         static void Main(string[] args)
         {            
-            Console.WriteLine("{0} {1}", MyStruct.PI, MyStruct.Age);           
+            Console.WriteLine("{0} {1}", MyStruct.PI, MyStruct.Age);
+            //PI와 AGE가를 . 형태로 바로 쓸 수 있는 이유는 static 변수 
+            //그리고 const는 자동으로 정적 변수와 동일하게 적용
+
+            //테스트
+            //MyStruct.val = 10; // 선언 or 생성을 해야지 쓸 수 있음 (static을 붙여야함)
+            //Console.WriteLine(MyStruct.val);
         }
     }
 }

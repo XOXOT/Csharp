@@ -23,17 +23,17 @@ namespace ConsoleApplication18
     {
         static void Main(string[] args)
         {
-            //MyStruct test1 = new MyStruct();
+            //MyStruct test1 = new MyStruct(); //구조체 생성
             //test1.Age = 12;
-            //MyStruct test2 = test1;
+            //MyStruct test2 = test1; //값 복사 (test2와 test1은 완전 별개)
             //test2.Age = 24;
-            //Console.WriteLine("{0} {1}", test1.Age, test2.Age);
+            //Console.WriteLine("{0} {1}", test1.Age, test2.Age); //값이 다르므로 따라서 참조 형식이 아닌 값 형식이라는 것을 알 수 있음.
 
             MyClass test3 = new MyClass();
             test3.Age = 12;
-            MyClass test4 = test3;
+            MyClass test4 = test3; //여기서 =은 참조 형식으로 동기화?가 일어남 따라서 test4는 test3의 별명 정도라고 볼 수 있다. 
             test4.Age = 24;
-            Console.WriteLine("{0} {1}", test3.Age, test4.Age);          
+            Console.WriteLine("{0} {1}", test3.Age, test4.Age); //값이 같다.      
         }
     }
 }

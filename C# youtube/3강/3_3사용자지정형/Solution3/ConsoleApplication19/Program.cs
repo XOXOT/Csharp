@@ -11,7 +11,7 @@ namespace ConsoleApplication15
         public int Kor, Eng, Math, Total;
         public float Average;
 
-        public void Compute()
+        public void Compute() //public 필수
         {
             Total = Kor + Eng + Math;
             Average = Total / 3.0f;

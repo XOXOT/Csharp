@@ -9,3 +9,10 @@ E:\회사\나우캠퍼스\무료강좌\C# 언어\소스\3강\3_3사용자지정�
 E:\회사\나우캠퍼스\무료강좌\C# 언어\소스\3강\3_3사용자지정형\Solution3\ConsoleApplication20\obj\Debug\ConsoleApplication20.csproj.CoreCompileInputs.cache
 E:\회사\나우캠퍼스\무료강좌\C# 언어\소스\3강\3_3사용자지정형\Solution3\ConsoleApplication20\obj\Debug\ConsoleApplication17.exe
 E:\회사\나우캠퍼스\무료강좌\C# 언어\소스\3강\3_3사용자지정형\Solution3\ConsoleApplication20\obj\Debug\ConsoleApplication17.pdb
+D:\C#\C# youtube\3강\3_3사용자지정형\Solution3\ConsoleApplication20\bin\Debug\ConsoleApplication17.exe.config
+D:\C#\C# youtube\3강\3_3사용자지정형\Solution3\ConsoleApplication20\bin\Debug\ConsoleApplication17.exe
+D:\C#\C# youtube\3강\3_3사용자지정형\Solution3\ConsoleApplication20\bin\Debug\ConsoleApplication17.pdb
+D:\C#\C# youtube\3강\3_3사용자지정형\Solution3\ConsoleApplication20\obj\Debug\ConsoleApplication20.csproj.AssemblyReference.cache
+D:\C#\C# youtube\3강\3_3사용자지정형\Solution3\ConsoleApplication20\obj\Debug\ConsoleApplication20.csproj.CoreCompileInputs.cache
+D:\C#\C# youtube\3강\3_3사용자지정형\Solution3\ConsoleApplication20\obj\Debug\ConsoleApplication17.exe
+D:\C#\C# youtube\3강\3_3사용자지정형\Solution3\ConsoleApplication20\obj\Debug\ConsoleApplication17.pdb
