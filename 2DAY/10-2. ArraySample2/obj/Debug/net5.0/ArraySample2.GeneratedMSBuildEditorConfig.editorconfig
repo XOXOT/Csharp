@@ -6,5 +6,5 @@ build_property.ProjectTypeGuids =
 build_property.PublishSingleFile = 
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
-build_property.RootNamespace = AbstractClass
-build_property.ProjectDir = D:\C#\2DAY\8-5. AbstractClass\
+build_property.RootNamespace = ArraySample2
+build_property.ProjectDir = D:\C#\2DAY\10-2. ArraySample2\
