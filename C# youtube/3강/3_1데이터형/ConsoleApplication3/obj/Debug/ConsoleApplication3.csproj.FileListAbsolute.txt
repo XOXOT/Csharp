@@ -1,0 +1,26 @@
+E:\나우캠퍼스\무료강좌\C# 언어\소스\3강\ConsoleApplication2\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+E:\나우캠퍼스\무료강좌\C# 언어\소스\3강\ConsoleApplication2\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+E:\나우캠퍼스\무료강좌\C# 언어\소스\3강\ConsoleApplication2\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+E:\나우캠퍼스\무료강좌\C# 언어\소스\3강\ConsoleApplication2\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+E:\나우캠퍼스\무료강좌\C# 언어\소스\3강\ConsoleApplication2\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb
+E:\나우캠퍼스\무료강좌\C# 언어\소스\3강\ConsoleApplication2\ConsoleApplication3\obj\Debug\ConsoleApplication3.csprojResolveAssemblyReference.cache
+E:\나우캠퍼스\무료강좌\C# 언어\소스\3강\ConsoleApplication2\3_1데이터형\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+E:\나우캠퍼스\무료강좌\C# 언어\소스\3강\ConsoleApplication2\3_1데이터형\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+E:\나우캠퍼스\무료강좌\C# 언어\소스\3강\ConsoleApplication2\3_1데이터형\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb
+E:\나우캠퍼스\무료강좌\C# 언어\소스\3강\ConsoleApplication2\3_1데이터형\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+E:\나우캠퍼스\무료강좌\C# 언어\소스\3강\ConsoleApplication2\3_1데이터형\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+E:\나우캠퍼스\무료강좌\C# 언어\소스\3강\ConsoleApplication2\3_1데이터형\ConsoleApplication3\obj\Debug\ConsoleApplication3.csprojResolveAssemblyReference.cache
+E:\회사\나우캠퍼스\무료강좌\C# 언어\소스\3강\ConsoleApplication2\3_1데이터형\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+E:\회사\나우캠퍼스\무료강좌\C# 언어\소스\3강\ConsoleApplication2\3_1데이터형\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+E:\회사\나우캠퍼스\무료강좌\C# 언어\소스\3강\ConsoleApplication2\3_1데이터형\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+E:\회사\나우캠퍼스\무료강좌\C# 언어\소스\3강\ConsoleApplication2\3_1데이터형\ConsoleApplication3\obj\Debug\ConsoleApplication3.csprojResolveAssemblyReference.cache
+E:\회사\나우캠퍼스\무료강좌\C# 언어\소스\3강\ConsoleApplication2\3_1데이터형\ConsoleApplication3\obj\Debug\ConsoleApplication3.csproj.CoreCompileInputs.cache
+E:\회사\나우캠퍼스\무료강좌\C# 언어\소스\3강\ConsoleApplication2\3_1데이터형\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+E:\회사\나우캠퍼스\무료강좌\C# 언어\소스\3강\ConsoleApplication2\3_1데이터형\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb
+C:\Users\pknu\Desktop\c#언어소스\3강\3_1데이터형\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+C:\Users\pknu\Desktop\c#언어소스\3강\3_1데이터형\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+C:\Users\pknu\Desktop\c#언어소스\3강\3_1데이터형\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+C:\Users\pknu\Desktop\c#언어소스\3강\3_1데이터형\ConsoleApplication3\obj\Debug\ConsoleApplication3.csproj.AssemblyReference.cache
+C:\Users\pknu\Desktop\c#언어소스\3강\3_1데이터형\ConsoleApplication3\obj\Debug\ConsoleApplication3.csproj.CoreCompileInputs.cache
+C:\Users\pknu\Desktop\c#언어소스\3강\3_1데이터형\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+C:\Users\pknu\Desktop\c#언어소스\3강\3_1데이터형\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb

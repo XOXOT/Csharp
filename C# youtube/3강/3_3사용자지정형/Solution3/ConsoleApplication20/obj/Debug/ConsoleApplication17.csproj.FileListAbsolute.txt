@@ -1,0 +1,5 @@
+E:\나우캠퍼스\무료강좌\C# 언어\소스\3강\ConsoleApplication2\ConsoleApplication17\bin\Debug\ConsoleApplication17.exe.config
+E:\나우캠퍼스\무료강좌\C# 언어\소스\3강\ConsoleApplication2\ConsoleApplication17\bin\Debug\ConsoleApplication17.exe
+E:\나우캠퍼스\무료강좌\C# 언어\소스\3강\ConsoleApplication2\ConsoleApplication17\bin\Debug\ConsoleApplication17.pdb
+E:\나우캠퍼스\무료강좌\C# 언어\소스\3강\ConsoleApplication2\ConsoleApplication17\obj\Debug\ConsoleApplication17.exe
+E:\나우캠퍼스\무료강좌\C# 언어\소스\3강\ConsoleApplication2\ConsoleApplication17\obj\Debug\ConsoleApplication17.pdb

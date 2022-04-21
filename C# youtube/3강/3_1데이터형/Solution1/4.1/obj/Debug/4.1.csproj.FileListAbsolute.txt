@@ -1,0 +1,7 @@
+E:\회사\나우캠퍼스\무료강좌\C# 언어\소스\3강\ConsoleApplication2\3_1데이터형\Solution1\4.1\bin\Debug\4.1.exe.config
+E:\회사\나우캠퍼스\무료강좌\C# 언어\소스\3강\ConsoleApplication2\3_1데이터형\Solution1\4.1\bin\Debug\4.1.exe
+E:\회사\나우캠퍼스\무료강좌\C# 언어\소스\3강\ConsoleApplication2\3_1데이터형\Solution1\4.1\bin\Debug\4.1.pdb
+E:\회사\나우캠퍼스\무료강좌\C# 언어\소스\3강\ConsoleApplication2\3_1데이터형\Solution1\4.1\obj\Debug\4.1.csprojResolveAssemblyReference.cache
+E:\회사\나우캠퍼스\무료강좌\C# 언어\소스\3강\ConsoleApplication2\3_1데이터형\Solution1\4.1\obj\Debug\4.1.csproj.CoreCompileInputs.cache
+E:\회사\나우캠퍼스\무료강좌\C# 언어\소스\3강\ConsoleApplication2\3_1데이터형\Solution1\4.1\obj\Debug\4.1.exe
+E:\회사\나우캠퍼스\무료강좌\C# 언어\소스\3강\ConsoleApplication2\3_1데이터형\Solution1\4.1\obj\Debug\4.1.pdb

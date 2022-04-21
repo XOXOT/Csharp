@@ -1,0 +1,21 @@
+E:\나우캠퍼스\무료강좌\C# 언어\소스\3강\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+E:\나우캠퍼스\무료강좌\C# 언어\소스\3강\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+E:\나우캠퍼스\무료강좌\C# 언어\소스\3강\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+E:\나우캠퍼스\무료강좌\C# 언어\소스\3강\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+E:\나우캠퍼스\무료강좌\C# 언어\소스\3강\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
+E:\나우캠퍼스\무료강좌\C# 언어\소스\3강\ConsoleApplication2\3_1데이터형\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+E:\나우캠퍼스\무료강좌\C# 언어\소스\3강\ConsoleApplication2\3_1데이터형\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+E:\나우캠퍼스\무료강좌\C# 언어\소스\3강\ConsoleApplication2\3_1데이터형\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
+E:\회사\나우캠퍼스\무료강좌\C# 언어\소스\3강\ConsoleApplication2\3_1데이터형\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+E:\회사\나우캠퍼스\무료강좌\C# 언어\소스\3강\ConsoleApplication2\3_1데이터형\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+E:\회사\나우캠퍼스\무료강좌\C# 언어\소스\3강\ConsoleApplication2\3_1데이터형\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+E:\회사\나우캠퍼스\무료강좌\C# 언어\소스\3강\ConsoleApplication2\3_1데이터형\ConsoleApplication2\obj\Debug\ConsoleApplication2.csproj.CoreCompileInputs.cache
+E:\회사\나우캠퍼스\무료강좌\C# 언어\소스\3강\ConsoleApplication2\3_1데이터형\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+E:\회사\나우캠퍼스\무료강좌\C# 언어\소스\3강\ConsoleApplication2\3_1데이터형\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
+C:\Users\pknu\Desktop\c#언어소스\3강\3_1데이터형\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+C:\Users\pknu\Desktop\c#언어소스\3강\3_1데이터형\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+C:\Users\pknu\Desktop\c#언어소스\3강\3_1데이터형\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+C:\Users\pknu\Desktop\c#언어소스\3강\3_1데이터형\ConsoleApplication2\obj\Debug\ConsoleApplication2.csproj.AssemblyReference.cache
+C:\Users\pknu\Desktop\c#언어소스\3강\3_1데이터형\ConsoleApplication2\obj\Debug\ConsoleApplication2.csproj.CoreCompileInputs.cache
+C:\Users\pknu\Desktop\c#언어소스\3강\3_1데이터형\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+C:\Users\pknu\Desktop\c#언어소스\3강\3_1데이터형\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb

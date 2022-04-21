@@ -1,0 +1,10 @@
+E:\나우캠퍼스\무료강좌\C# 언어\소스\3강\ConsoleApplication2\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe.config
+E:\나우캠퍼스\무료강좌\C# 언어\소스\3강\ConsoleApplication2\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe
+E:\나우캠퍼스\무료강좌\C# 언어\소스\3강\ConsoleApplication2\ConsoleApplication4\bin\Debug\ConsoleApplication4.pdb
+E:\나우캠퍼스\무료강좌\C# 언어\소스\3강\ConsoleApplication2\ConsoleApplication4\obj\Debug\ConsoleApplication4.exe
+E:\나우캠퍼스\무료강좌\C# 언어\소스\3강\ConsoleApplication2\ConsoleApplication4\obj\Debug\ConsoleApplication4.pdb
+E:\나우캠퍼스\무료강좌\C# 언어\소스\3강\ConsoleApplication2\3_1데이터형\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe.config
+E:\나우캠퍼스\무료강좌\C# 언어\소스\3강\ConsoleApplication2\3_1데이터형\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe
+E:\나우캠퍼스\무료강좌\C# 언어\소스\3강\ConsoleApplication2\3_1데이터형\ConsoleApplication5\bin\Debug\ConsoleApplication5.pdb
+E:\나우캠퍼스\무료강좌\C# 언어\소스\3강\ConsoleApplication2\3_1데이터형\ConsoleApplication5\obj\Debug\ConsoleApplication5.exe
+E:\나우캠퍼스\무료강좌\C# 언어\소스\3강\ConsoleApplication2\3_1데이터형\ConsoleApplication5\obj\Debug\ConsoleApplication5.pdb

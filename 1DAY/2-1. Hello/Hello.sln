@@ -13,6 +13,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArraySample", "..\..\2DAY\1
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArraySample2", "..\..\2DAY\10-2. ArraySample2\ArraySample2.csproj", "{9A0D7776-94C8-4889-9AC0-AFD2D7D6CDC7}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MoreOnArray", "..\..\2DAY\10-5. MoreOnArray\MoreOnArray.csproj", "{AB687DFA-5685-49A5-B2D0-7D350A255E9A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Slice", "..\..\2DAY\10-6. Slice\Slice.csproj", "{531E9BF9-3C33-4E98-8F47-024E70892340}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,14 @@ Global
 		{9A0D7776-94C8-4889-9AC0-AFD2D7D6CDC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9A0D7776-94C8-4889-9AC0-AFD2D7D6CDC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9A0D7776-94C8-4889-9AC0-AFD2D7D6CDC7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB687DFA-5685-49A5-B2D0-7D350A255E9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB687DFA-5685-49A5-B2D0-7D350A255E9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB687DFA-5685-49A5-B2D0-7D350A255E9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB687DFA-5685-49A5-B2D0-7D350A255E9A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{531E9BF9-3C33-4E98-8F47-024E70892340}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{531E9BF9-3C33-4E98-8F47-024E70892340}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{531E9BF9-3C33-4E98-8F47-024E70892340}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{531E9BF9-3C33-4E98-8F47-024E70892340}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

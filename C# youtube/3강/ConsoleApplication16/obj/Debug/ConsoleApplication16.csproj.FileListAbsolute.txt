@@ -1,0 +1,6 @@
+E:\나우캠퍼스\무료강좌\C# 언어\소스\3강\ConsoleApplication2\ConsoleApplication16\bin\Debug\ConsoleApplication16.exe.config
+E:\나우캠퍼스\무료강좌\C# 언어\소스\3강\ConsoleApplication2\ConsoleApplication16\bin\Debug\ConsoleApplication16.exe
+E:\나우캠퍼스\무료강좌\C# 언어\소스\3강\ConsoleApplication2\ConsoleApplication16\bin\Debug\ConsoleApplication16.pdb
+E:\나우캠퍼스\무료강좌\C# 언어\소스\3강\ConsoleApplication2\ConsoleApplication16\obj\Debug\ConsoleApplication16.exe
+E:\나우캠퍼스\무료강좌\C# 언어\소스\3강\ConsoleApplication2\ConsoleApplication16\obj\Debug\ConsoleApplication16.pdb
+E:\나우캠퍼스\무료강좌\C# 언어\소스\3강\ConsoleApplication2\ConsoleApplication16\obj\Debug\ConsoleApplication16.csprojResolveAssemblyReference.cache

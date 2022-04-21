@@ -1,0 +1,20 @@
+E:\나우캠퍼스\무료강좌\C# 언어\소스\3강\ConsoleApplication2\ConsoleReadLine02\bin\Debug\ConsoleReadLine02.exe.config
+E:\나우캠퍼스\무료강좌\C# 언어\소스\3강\ConsoleApplication2\ConsoleReadLine02\bin\Debug\ConsoleReadLine02.exe
+E:\나우캠퍼스\무료강좌\C# 언어\소스\3강\ConsoleApplication2\ConsoleReadLine02\bin\Debug\ConsoleReadLine02.pdb
+E:\나우캠퍼스\무료강좌\C# 언어\소스\3강\ConsoleApplication2\ConsoleReadLine02\obj\Debug\ConsoleReadLine02.exe
+E:\나우캠퍼스\무료강좌\C# 언어\소스\3강\ConsoleApplication2\ConsoleReadLine02\obj\Debug\ConsoleReadLine02.pdb
+E:\나우캠퍼스\무료강좌\C# 언어\소스\3강\ConsoleApplication2\3_2변환\ConsoleReadLine02\bin\Debug\ConsoleReadLine02.exe.config
+E:\나우캠퍼스\무료강좌\C# 언어\소스\3강\ConsoleApplication2\3_2변환\ConsoleReadLine02\obj\Debug\ConsoleReadLine02.exe
+E:\나우캠퍼스\무료강좌\C# 언어\소스\3강\ConsoleApplication2\3_2변환\ConsoleReadLine02\obj\Debug\ConsoleReadLine02.pdb
+E:\회사\나우캠퍼스\무료강좌\C# 언어\소스\3강\ConsoleApplication2\3_2변환\ConsoleReadLine02\bin\Debug\ConsoleReadLine02.exe.config
+E:\회사\나우캠퍼스\무료강좌\C# 언어\소스\3강\ConsoleApplication2\3_2변환\ConsoleReadLine02\bin\Debug\ConsoleReadLine02.exe
+E:\회사\나우캠퍼스\무료강좌\C# 언어\소스\3강\ConsoleApplication2\3_2변환\ConsoleReadLine02\bin\Debug\ConsoleReadLine02.pdb
+E:\회사\나우캠퍼스\무료강좌\C# 언어\소스\3강\ConsoleApplication2\3_2변환\ConsoleReadLine02\obj\Debug\ConsoleReadLine02.csproj.CoreCompileInputs.cache
+E:\회사\나우캠퍼스\무료강좌\C# 언어\소스\3강\ConsoleApplication2\3_2변환\ConsoleReadLine02\obj\Debug\ConsoleReadLine02.exe
+E:\회사\나우캠퍼스\무료강좌\C# 언어\소스\3강\ConsoleApplication2\3_2변환\ConsoleReadLine02\obj\Debug\ConsoleReadLine02.pdb
+C:\Users\pknu\Desktop\c#언어소스\3강\3_2변환\ConsoleReadLine02\bin\Debug\ConsoleReadLine02.exe.config
+C:\Users\pknu\Desktop\c#언어소스\3강\3_2변환\ConsoleReadLine02\bin\Debug\ConsoleReadLine02.exe
+C:\Users\pknu\Desktop\c#언어소스\3강\3_2변환\ConsoleReadLine02\bin\Debug\ConsoleReadLine02.pdb
+C:\Users\pknu\Desktop\c#언어소스\3강\3_2변환\ConsoleReadLine02\obj\Debug\ConsoleReadLine02.csproj.CoreCompileInputs.cache
+C:\Users\pknu\Desktop\c#언어소스\3강\3_2변환\ConsoleReadLine02\obj\Debug\ConsoleReadLine02.exe
+C:\Users\pknu\Desktop\c#언어소스\3강\3_2변환\ConsoleReadLine02\obj\Debug\ConsoleReadLine02.pdb

@@ -1,0 +1,16 @@
+E:\나우캠퍼스\무료강좌\C# 언어\소스\3강\ConsoleApplication2\3_2변환\ConsoleApplication11\bin\Debug\ConsoleApplication10.exe.config
+E:\나우캠퍼스\무료강좌\C# 언어\소스\3강\ConsoleApplication2\3_2변환\ConsoleApplication11\obj\Debug\ConsoleApplication10.exe
+E:\나우캠퍼스\무료강좌\C# 언어\소스\3강\ConsoleApplication2\3_2변환\ConsoleApplication11\obj\Debug\ConsoleApplication10.pdb
+E:\회사\나우캠퍼스\무료강좌\C# 언어\소스\3강\ConsoleApplication2\3_2변환\ConsoleApplication11\bin\Debug\ConsoleApplication10.exe.config
+E:\회사\나우캠퍼스\무료강좌\C# 언어\소스\3강\ConsoleApplication2\3_2변환\ConsoleApplication11\bin\Debug\ConsoleApplication10.exe
+E:\회사\나우캠퍼스\무료강좌\C# 언어\소스\3강\ConsoleApplication2\3_2변환\ConsoleApplication11\bin\Debug\ConsoleApplication10.pdb
+E:\회사\나우캠퍼스\무료강좌\C# 언어\소스\3강\ConsoleApplication2\3_2변환\ConsoleApplication11\obj\Debug\ConsoleApplication11.csproj.CoreCompileInputs.cache
+E:\회사\나우캠퍼스\무료강좌\C# 언어\소스\3강\ConsoleApplication2\3_2변환\ConsoleApplication11\obj\Debug\ConsoleApplication10.exe
+E:\회사\나우캠퍼스\무료강좌\C# 언어\소스\3강\ConsoleApplication2\3_2변환\ConsoleApplication11\obj\Debug\ConsoleApplication10.pdb
+C:\Users\pknu\Desktop\c#언어소스\3강\3_2변환\ConsoleApplication11\bin\Debug\ConsoleApplication10.exe.config
+C:\Users\pknu\Desktop\c#언어소스\3강\3_2변환\ConsoleApplication11\bin\Debug\ConsoleApplication10.exe
+C:\Users\pknu\Desktop\c#언어소스\3강\3_2변환\ConsoleApplication11\bin\Debug\ConsoleApplication10.pdb
+C:\Users\pknu\Desktop\c#언어소스\3강\3_2변환\ConsoleApplication11\obj\Debug\ConsoleApplication11.csproj.AssemblyReference.cache
+C:\Users\pknu\Desktop\c#언어소스\3강\3_2변환\ConsoleApplication11\obj\Debug\ConsoleApplication11.csproj.CoreCompileInputs.cache
+C:\Users\pknu\Desktop\c#언어소스\3강\3_2변환\ConsoleApplication11\obj\Debug\ConsoleApplication10.exe
+C:\Users\pknu\Desktop\c#언어소스\3강\3_2변환\ConsoleApplication11\obj\Debug\ConsoleApplication10.pdb

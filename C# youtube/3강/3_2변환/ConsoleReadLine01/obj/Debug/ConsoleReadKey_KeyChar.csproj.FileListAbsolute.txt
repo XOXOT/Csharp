@@ -1,0 +1,20 @@
+E:\나우캠퍼스\무료강좌\C# 언어\소스\3강\ConsoleApplication2\3_2변환\ConsoleReadLine01\bin\Debug\ConsoleReadLine01.exe.config
+E:\나우캠퍼스\무료강좌\C# 언어\소스\3강\ConsoleApplication2\3_2변환\ConsoleReadLine01\bin\Debug\ConsoleReadLine01.exe
+E:\나우캠퍼스\무료강좌\C# 언어\소스\3강\ConsoleApplication2\3_2변환\ConsoleReadLine01\bin\Debug\ConsoleReadLine01.pdb
+E:\나우캠퍼스\무료강좌\C# 언어\소스\3강\ConsoleApplication2\3_2변환\ConsoleReadLine01\obj\Debug\ConsoleReadKey_KeyChar.csprojResolveAssemblyReference.cache
+E:\나우캠퍼스\무료강좌\C# 언어\소스\3강\ConsoleApplication2\3_2변환\ConsoleReadLine01\obj\Debug\ConsoleReadLine01.exe
+E:\나우캠퍼스\무료강좌\C# 언어\소스\3강\ConsoleApplication2\3_2변환\ConsoleReadLine01\obj\Debug\ConsoleReadLine01.pdb
+E:\회사\나우캠퍼스\무료강좌\C# 언어\소스\3강\ConsoleApplication2\3_2변환\ConsoleReadLine01\bin\Debug\ConsoleReadLine01.exe.config
+E:\회사\나우캠퍼스\무료강좌\C# 언어\소스\3강\ConsoleApplication2\3_2변환\ConsoleReadLine01\bin\Debug\ConsoleReadLine01.exe
+E:\회사\나우캠퍼스\무료강좌\C# 언어\소스\3강\ConsoleApplication2\3_2변환\ConsoleReadLine01\bin\Debug\ConsoleReadLine01.pdb
+E:\회사\나우캠퍼스\무료강좌\C# 언어\소스\3강\ConsoleApplication2\3_2변환\ConsoleReadLine01\obj\Debug\ConsoleReadKey_KeyChar.csprojResolveAssemblyReference.cache
+E:\회사\나우캠퍼스\무료강좌\C# 언어\소스\3강\ConsoleApplication2\3_2변환\ConsoleReadLine01\obj\Debug\ConsoleReadKey_KeyChar.csproj.CoreCompileInputs.cache
+E:\회사\나우캠퍼스\무료강좌\C# 언어\소스\3강\ConsoleApplication2\3_2변환\ConsoleReadLine01\obj\Debug\ConsoleReadLine01.exe
+E:\회사\나우캠퍼스\무료강좌\C# 언어\소스\3강\ConsoleApplication2\3_2변환\ConsoleReadLine01\obj\Debug\ConsoleReadLine01.pdb
+C:\Users\pknu\Desktop\c#언어소스\3강\3_2변환\ConsoleReadLine01\bin\Debug\ConsoleReadLine01.exe.config
+C:\Users\pknu\Desktop\c#언어소스\3강\3_2변환\ConsoleReadLine01\bin\Debug\ConsoleReadLine01.exe
+C:\Users\pknu\Desktop\c#언어소스\3강\3_2변환\ConsoleReadLine01\bin\Debug\ConsoleReadLine01.pdb
+C:\Users\pknu\Desktop\c#언어소스\3강\3_2변환\ConsoleReadLine01\obj\Debug\ConsoleReadKey_KeyChar.csproj.CoreCompileInputs.cache
+C:\Users\pknu\Desktop\c#언어소스\3강\3_2변환\ConsoleReadLine01\obj\Debug\ConsoleReadLine01.exe
+C:\Users\pknu\Desktop\c#언어소스\3강\3_2변환\ConsoleReadLine01\obj\Debug\ConsoleReadLine01.pdb
+C:\Users\pknu\Desktop\c#언어소스\3강\3_2변환\ConsoleReadLine01\obj\Debug\ConsoleReadKey_KeyChar.csproj.AssemblyReference.cache

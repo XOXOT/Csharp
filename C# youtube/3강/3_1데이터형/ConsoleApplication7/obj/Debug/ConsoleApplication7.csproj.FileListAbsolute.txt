@@ -1,0 +1,25 @@
+E:\나우캠퍼스\무료강좌\C# 언어\소스\3강\ConsoleApplication2\ConsoleApplication7\bin\Debug\ConsoleApplication7.exe.config
+E:\나우캠퍼스\무료강좌\C# 언어\소스\3강\ConsoleApplication2\ConsoleApplication7\bin\Debug\ConsoleApplication7.exe
+E:\나우캠퍼스\무료강좌\C# 언어\소스\3강\ConsoleApplication2\ConsoleApplication7\bin\Debug\ConsoleApplication7.pdb
+E:\나우캠퍼스\무료강좌\C# 언어\소스\3강\ConsoleApplication2\ConsoleApplication7\obj\Debug\ConsoleApplication7.exe
+E:\나우캠퍼스\무료강좌\C# 언어\소스\3강\ConsoleApplication2\ConsoleApplication7\obj\Debug\ConsoleApplication7.pdb
+E:\나우캠퍼스\무료강좌\C# 언어\소스\3강\ConsoleApplication2\3_1데이터형\ConsoleApplication7\bin\Debug\ConsoleApplication7.exe.config
+E:\나우캠퍼스\무료강좌\C# 언어\소스\3강\ConsoleApplication2\3_1데이터형\ConsoleApplication7\obj\Debug\ConsoleApplication7.exe
+E:\나우캠퍼스\무료강좌\C# 언어\소스\3강\ConsoleApplication2\3_1데이터형\ConsoleApplication7\obj\Debug\ConsoleApplication7.pdb
+E:\나우캠퍼스\무료강좌\C# 언어\소스\3강\ConsoleApplication2\3_1데이터형\ConsoleApplication7\bin\Debug\ConsoleApplication7.exe
+E:\나우캠퍼스\무료강좌\C# 언어\소스\3강\ConsoleApplication2\3_1데이터형\ConsoleApplication7\bin\Debug\ConsoleApplication7.pdb
+E:\나우캠퍼스\무료강좌\C# 언어\소스\3강\ConsoleApplication2\3_1데이터형\ConsoleApplication7\obj\Debug\ConsoleApplication7.csprojResolveAssemblyReference.cache
+E:\회사\나우캠퍼스\무료강좌\C# 언어\소스\3강\ConsoleApplication2\3_1데이터형\ConsoleApplication7\bin\Debug\ConsoleApplication7.exe.config
+E:\회사\나우캠퍼스\무료강좌\C# 언어\소스\3강\ConsoleApplication2\3_1데이터형\ConsoleApplication7\bin\Debug\ConsoleApplication7.exe
+E:\회사\나우캠퍼스\무료강좌\C# 언어\소스\3강\ConsoleApplication2\3_1데이터형\ConsoleApplication7\bin\Debug\ConsoleApplication7.pdb
+E:\회사\나우캠퍼스\무료강좌\C# 언어\소스\3강\ConsoleApplication2\3_1데이터형\ConsoleApplication7\obj\Debug\ConsoleApplication7.csprojResolveAssemblyReference.cache
+E:\회사\나우캠퍼스\무료강좌\C# 언어\소스\3강\ConsoleApplication2\3_1데이터형\ConsoleApplication7\obj\Debug\ConsoleApplication7.csproj.CoreCompileInputs.cache
+E:\회사\나우캠퍼스\무료강좌\C# 언어\소스\3강\ConsoleApplication2\3_1데이터형\ConsoleApplication7\obj\Debug\ConsoleApplication7.exe
+E:\회사\나우캠퍼스\무료강좌\C# 언어\소스\3강\ConsoleApplication2\3_1데이터형\ConsoleApplication7\obj\Debug\ConsoleApplication7.pdb
+C:\Users\pknu\Desktop\c#언어소스\3강\3_1데이터형\ConsoleApplication7\bin\Debug\ConsoleApplication7.exe.config
+C:\Users\pknu\Desktop\c#언어소스\3강\3_1데이터형\ConsoleApplication7\bin\Debug\ConsoleApplication7.exe
+C:\Users\pknu\Desktop\c#언어소스\3강\3_1데이터형\ConsoleApplication7\bin\Debug\ConsoleApplication7.pdb
+C:\Users\pknu\Desktop\c#언어소스\3강\3_1데이터형\ConsoleApplication7\obj\Debug\ConsoleApplication7.csproj.AssemblyReference.cache
+C:\Users\pknu\Desktop\c#언어소스\3강\3_1데이터형\ConsoleApplication7\obj\Debug\ConsoleApplication7.csproj.CoreCompileInputs.cache
+C:\Users\pknu\Desktop\c#언어소스\3강\3_1데이터형\ConsoleApplication7\obj\Debug\ConsoleApplication7.exe
+C:\Users\pknu\Desktop\c#언어소스\3강\3_1데이터형\ConsoleApplication7\obj\Debug\ConsoleApplication7.pdb

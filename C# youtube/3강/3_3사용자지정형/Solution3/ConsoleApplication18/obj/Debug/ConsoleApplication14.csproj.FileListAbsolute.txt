@@ -1,0 +1,9 @@
+E:\나우캠퍼스\무료강좌\C# 언어\소스\3강\ConsoleApplication2\ConsoleApplication14\bin\Debug\ConsoleApplication14.exe.config
+E:\나우캠퍼스\무료강좌\C# 언어\소스\3강\ConsoleApplication2\ConsoleApplication14\bin\Debug\ConsoleApplication14.exe
+E:\나우캠퍼스\무료강좌\C# 언어\소스\3강\ConsoleApplication2\ConsoleApplication14\bin\Debug\ConsoleApplication14.pdb
+E:\나우캠퍼스\무료강좌\C# 언어\소스\3강\ConsoleApplication2\ConsoleApplication14\obj\Debug\ConsoleApplication14.exe
+E:\나우캠퍼스\무료강좌\C# 언어\소스\3강\ConsoleApplication2\ConsoleApplication14\obj\Debug\ConsoleApplication14.pdb
+E:\나우캠퍼스\무료강좌\C# 언어\소스\3강\ConsoleApplication2\ConsoleApplication14\obj\Debug\ConsoleApplication14.csprojResolveAssemblyReference.cache
+E:\나우캠퍼스\무료강좌\C# 언어\소스\3강\ConsoleApplication2\3_3사용자지정형\ConsoleApplication18\bin\Debug\ConsoleApplication14.exe.config
+E:\나우캠퍼스\무료강좌\C# 언어\소스\3강\ConsoleApplication2\3_3사용자지정형\ConsoleApplication18\obj\Debug\ConsoleApplication14.exe
+E:\나우캠퍼스\무료강좌\C# 언어\소스\3강\ConsoleApplication2\3_3사용자지정형\ConsoleApplication18\obj\Debug\ConsoleApplication14.pdb
