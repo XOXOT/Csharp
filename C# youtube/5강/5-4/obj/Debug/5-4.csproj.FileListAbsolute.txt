@@ -1,0 +1,6 @@
+E:\나우캠퍼스\무료강좌\C# 언어\소스\5강\5-4\5-4\bin\Debug\5-4.exe.config
+E:\나우캠퍼스\무료강좌\C# 언어\소스\5강\5-4\5-4\bin\Debug\5-4.exe
+E:\나우캠퍼스\무료강좌\C# 언어\소스\5강\5-4\5-4\bin\Debug\5-4.pdb
+E:\나우캠퍼스\무료강좌\C# 언어\소스\5강\5-4\5-4\obj\Debug\5-4.csprojResolveAssemblyReference.cache
+E:\나우캠퍼스\무료강좌\C# 언어\소스\5강\5-4\5-4\obj\Debug\5-4.exe
+E:\나우캠퍼스\무료강좌\C# 언어\소스\5강\5-4\5-4\obj\Debug\5-4.pdb
