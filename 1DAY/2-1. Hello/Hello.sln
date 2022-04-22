@@ -17,6 +17,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MoreOnArray", "..\..\2DAY\1
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Slice", "..\..\2DAY\10-6. Slice\Slice.csproj", "{531E9BF9-3C33-4E98-8F47-024E70892340}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "JaggedArray", "..\..\3DAY\10-9. JaggedArray\JaggedArray.csproj", "{47083176-91B3-4AA5-B967-F9604DDE5F7B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{531E9BF9-3C33-4E98-8F47-024E70892340}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{531E9BF9-3C33-4E98-8F47-024E70892340}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{531E9BF9-3C33-4E98-8F47-024E70892340}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47083176-91B3-4AA5-B967-F9604DDE5F7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47083176-91B3-4AA5-B967-F9604DDE5F7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47083176-91B3-4AA5-B967-F9604DDE5F7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47083176-91B3-4AA5-B967-F9604DDE5F7B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,17 @@
+E:\나우캠퍼스\무료강좌\C# 언어\소스\4강\4-18\4-18\bin\Debug\4-18.exe.config
+E:\나우캠퍼스\무료강좌\C# 언어\소스\4강\4-18\4-18\bin\Debug\4-18.exe
+E:\나우캠퍼스\무료강좌\C# 언어\소스\4강\4-18\4-18\bin\Debug\4-18.pdb
+E:\나우캠퍼스\무료강좌\C# 언어\소스\4강\4-18\4-18\obj\Debug\4-18.exe
+E:\나우캠퍼스\무료강좌\C# 언어\소스\4강\4-18\4-18\obj\Debug\4-18.pdb
+E:\회사\나우캠퍼스\무료강좌\C# 언어\소스\4강\4-18\4-18\bin\Debug\4-18.exe.config
+E:\회사\나우캠퍼스\무료강좌\C# 언어\소스\4강\4-18\4-18\bin\Debug\4-18.exe
+E:\회사\나우캠퍼스\무료강좌\C# 언어\소스\4강\4-18\4-18\bin\Debug\4-18.pdb
+E:\회사\나우캠퍼스\무료강좌\C# 언어\소스\4강\4-18\4-18\obj\Debug\4-18.csproj.CoreCompileInputs.cache
+E:\회사\나우캠퍼스\무료강좌\C# 언어\소스\4강\4-18\4-18\obj\Debug\4-18.exe
+E:\회사\나우캠퍼스\무료강좌\C# 언어\소스\4강\4-18\4-18\obj\Debug\4-18.pdb
+D:\C#\C# youtube\4강\4-18\4-18\bin\Debug\4-18.exe.config
+D:\C#\C# youtube\4강\4-18\4-18\bin\Debug\4-18.exe
+D:\C#\C# youtube\4강\4-18\4-18\bin\Debug\4-18.pdb
+D:\C#\C# youtube\4강\4-18\4-18\obj\Debug\4-18.csproj.CoreCompileInputs.cache
+D:\C#\C# youtube\4강\4-18\4-18\obj\Debug\4-18.exe
+D:\C#\C# youtube\4강\4-18\4-18\obj\Debug\4-18.pdb

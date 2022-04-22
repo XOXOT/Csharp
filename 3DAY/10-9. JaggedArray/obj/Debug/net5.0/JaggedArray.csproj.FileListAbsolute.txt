@@ -1,0 +1,15 @@
+D:\C#\3DAY\10-9. JaggedArray\bin\Debug\net5.0\JaggedArray.exe
+D:\C#\3DAY\10-9. JaggedArray\bin\Debug\net5.0\JaggedArray.deps.json
+D:\C#\3DAY\10-9. JaggedArray\bin\Debug\net5.0\JaggedArray.runtimeconfig.json
+D:\C#\3DAY\10-9. JaggedArray\bin\Debug\net5.0\JaggedArray.runtimeconfig.dev.json
+D:\C#\3DAY\10-9. JaggedArray\bin\Debug\net5.0\JaggedArray.dll
+D:\C#\3DAY\10-9. JaggedArray\bin\Debug\net5.0\ref\JaggedArray.dll
+D:\C#\3DAY\10-9. JaggedArray\bin\Debug\net5.0\JaggedArray.pdb
+D:\C#\3DAY\10-9. JaggedArray\obj\Debug\net5.0\JaggedArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\3DAY\10-9. JaggedArray\obj\Debug\net5.0\JaggedArray.AssemblyInfoInputs.cache
+D:\C#\3DAY\10-9. JaggedArray\obj\Debug\net5.0\JaggedArray.AssemblyInfo.cs
+D:\C#\3DAY\10-9. JaggedArray\obj\Debug\net5.0\JaggedArray.csproj.CoreCompileInputs.cache
+D:\C#\3DAY\10-9. JaggedArray\obj\Debug\net5.0\JaggedArray.dll
+D:\C#\3DAY\10-9. JaggedArray\obj\Debug\net5.0\ref\JaggedArray.dll
+D:\C#\3DAY\10-9. JaggedArray\obj\Debug\net5.0\JaggedArray.pdb
+D:\C#\3DAY\10-9. JaggedArray\obj\Debug\net5.0\JaggedArray.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+E:\나우캠퍼스\무료강좌\C# 언어\소스\4강\4-7\4-7\bin\Debug\4-7.exe.config
+E:\회사\나우캠퍼스\무료강좌\C# 언어\소스\4강\4-7\4-7\bin\Debug\4-7.exe.config
+E:\회사\나우캠퍼스\무료강좌\C# 언어\소스\4강\4-7\4-7\bin\Debug\4-7.exe
+E:\회사\나우캠퍼스\무료강좌\C# 언어\소스\4강\4-7\4-7\bin\Debug\4-7.pdb
+E:\회사\나우캠퍼스\무료강좌\C# 언어\소스\4강\4-7\4-7\obj\Debug\4-7.csproj.CoreCompileInputs.cache
+E:\회사\나우캠퍼스\무료강좌\C# 언어\소스\4강\4-7\4-7\obj\Debug\4-7.exe
+E:\회사\나우캠퍼스\무료강좌\C# 언어\소스\4강\4-7\4-7\obj\Debug\4-7.pdb
+D:\C#\C# youtube\4강\4-7\4-7\bin\Debug\4-7.exe.config
+D:\C#\C# youtube\4강\4-7\4-7\bin\Debug\4-7.exe
+D:\C#\C# youtube\4강\4-7\4-7\bin\Debug\4-7.pdb
+D:\C#\C# youtube\4강\4-7\4-7\obj\Debug\4-7.csproj.CoreCompileInputs.cache
+D:\C#\C# youtube\4강\4-7\4-7\obj\Debug\4-7.exe
+D:\C#\C# youtube\4강\4-7\4-7\obj\Debug\4-7.pdb
