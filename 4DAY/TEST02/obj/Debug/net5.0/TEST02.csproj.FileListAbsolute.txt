@@ -1,0 +1,16 @@
+D:\C#\4DAY\TEST02\obj\Debug\net5.0\TEST02.csproj.AssemblyReference.cache
+D:\C#\4DAY\TEST02\obj\Debug\net5.0\TEST02.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\4DAY\TEST02\obj\Debug\net5.0\TEST02.AssemblyInfoInputs.cache
+D:\C#\4DAY\TEST02\obj\Debug\net5.0\TEST02.AssemblyInfo.cs
+D:\C#\4DAY\TEST02\obj\Debug\net5.0\TEST02.csproj.CoreCompileInputs.cache
+D:\C#\4DAY\TEST02\bin\Debug\net5.0\TEST02.exe
+D:\C#\4DAY\TEST02\bin\Debug\net5.0\TEST02.deps.json
+D:\C#\4DAY\TEST02\bin\Debug\net5.0\TEST02.runtimeconfig.json
+D:\C#\4DAY\TEST02\bin\Debug\net5.0\TEST02.runtimeconfig.dev.json
+D:\C#\4DAY\TEST02\bin\Debug\net5.0\TEST02.dll
+D:\C#\4DAY\TEST02\bin\Debug\net5.0\ref\TEST02.dll
+D:\C#\4DAY\TEST02\bin\Debug\net5.0\TEST02.pdb
+D:\C#\4DAY\TEST02\obj\Debug\net5.0\TEST02.dll
+D:\C#\4DAY\TEST02\obj\Debug\net5.0\ref\TEST02.dll
+D:\C#\4DAY\TEST02\obj\Debug\net5.0\TEST02.pdb
+D:\C#\4DAY\TEST02\obj\Debug\net5.0\TEST02.genruntimeconfig.cache

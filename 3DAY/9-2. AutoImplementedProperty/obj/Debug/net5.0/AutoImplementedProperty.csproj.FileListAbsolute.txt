@@ -1,0 +1,16 @@
+D:\C#\3DAY\9-2. AutoImplementedProperty\bin\Debug\net5.0\AutoImplementedProperty.exe
+D:\C#\3DAY\9-2. AutoImplementedProperty\bin\Debug\net5.0\AutoImplementedProperty.deps.json
+D:\C#\3DAY\9-2. AutoImplementedProperty\bin\Debug\net5.0\AutoImplementedProperty.runtimeconfig.json
+D:\C#\3DAY\9-2. AutoImplementedProperty\bin\Debug\net5.0\AutoImplementedProperty.runtimeconfig.dev.json
+D:\C#\3DAY\9-2. AutoImplementedProperty\bin\Debug\net5.0\AutoImplementedProperty.dll
+D:\C#\3DAY\9-2. AutoImplementedProperty\bin\Debug\net5.0\ref\AutoImplementedProperty.dll
+D:\C#\3DAY\9-2. AutoImplementedProperty\bin\Debug\net5.0\AutoImplementedProperty.pdb
+D:\C#\3DAY\9-2. AutoImplementedProperty\obj\Debug\net5.0\AutoImplementedProperty.csproj.AssemblyReference.cache
+D:\C#\3DAY\9-2. AutoImplementedProperty\obj\Debug\net5.0\AutoImplementedProperty.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\3DAY\9-2. AutoImplementedProperty\obj\Debug\net5.0\AutoImplementedProperty.AssemblyInfoInputs.cache
+D:\C#\3DAY\9-2. AutoImplementedProperty\obj\Debug\net5.0\AutoImplementedProperty.AssemblyInfo.cs
+D:\C#\3DAY\9-2. AutoImplementedProperty\obj\Debug\net5.0\AutoImplementedProperty.csproj.CoreCompileInputs.cache
+D:\C#\3DAY\9-2. AutoImplementedProperty\obj\Debug\net5.0\AutoImplementedProperty.dll
+D:\C#\3DAY\9-2. AutoImplementedProperty\obj\Debug\net5.0\ref\AutoImplementedProperty.dll
+D:\C#\3DAY\9-2. AutoImplementedProperty\obj\Debug\net5.0\AutoImplementedProperty.pdb
+D:\C#\3DAY\9-2. AutoImplementedProperty\obj\Debug\net5.0\AutoImplementedProperty.genruntimeconfig.cache

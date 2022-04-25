@@ -1,0 +1,6 @@
+E:\회사\나우캠퍼스\무료강좌\C# 언어\소스\new_12강\ConsoleApplication8\ConsoleApplication8\bin\Debug\ConsoleApplication8.exe.config
+E:\회사\나우캠퍼스\무료강좌\C# 언어\소스\new_12강\ConsoleApplication8\ConsoleApplication8\bin\Debug\ConsoleApplication8.exe
+E:\회사\나우캠퍼스\무료강좌\C# 언어\소스\new_12강\ConsoleApplication8\ConsoleApplication8\bin\Debug\ConsoleApplication8.pdb
+E:\회사\나우캠퍼스\무료강좌\C# 언어\소스\new_12강\ConsoleApplication8\ConsoleApplication8\obj\Debug\ConsoleApplication8.csprojResolveAssemblyReference.cache
+E:\회사\나우캠퍼스\무료강좌\C# 언어\소스\new_12강\ConsoleApplication8\ConsoleApplication8\obj\Debug\ConsoleApplication8.exe
+E:\회사\나우캠퍼스\무료강좌\C# 언어\소스\new_12강\ConsoleApplication8\ConsoleApplication8\obj\Debug\ConsoleApplication8.pdb

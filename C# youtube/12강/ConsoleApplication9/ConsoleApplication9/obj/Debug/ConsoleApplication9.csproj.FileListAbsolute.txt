@@ -1,0 +1,5 @@
+E:\회사\나우캠퍼스\무료강좌\C# 언어\소스\new_12강\ConsoleApplication9\ConsoleApplication9\bin\Debug\ConsoleApplication9.exe.config
+E:\회사\나우캠퍼스\무료강좌\C# 언어\소스\new_12강\ConsoleApplication9\ConsoleApplication9\bin\Debug\ConsoleApplication9.exe
+E:\회사\나우캠퍼스\무료강좌\C# 언어\소스\new_12강\ConsoleApplication9\ConsoleApplication9\bin\Debug\ConsoleApplication9.pdb
+E:\회사\나우캠퍼스\무료강좌\C# 언어\소스\new_12강\ConsoleApplication9\ConsoleApplication9\obj\Debug\ConsoleApplication9.exe
+E:\회사\나우캠퍼스\무료강좌\C# 언어\소스\new_12강\ConsoleApplication9\ConsoleApplication9\obj\Debug\ConsoleApplication9.pdb

@@ -1,0 +1,16 @@
+D:\C#\1DAY\2-1. Hello\TEST\bin\Debug\net5.0\TEST.exe
+D:\C#\1DAY\2-1. Hello\TEST\bin\Debug\net5.0\TEST.deps.json
+D:\C#\1DAY\2-1. Hello\TEST\bin\Debug\net5.0\TEST.runtimeconfig.json
+D:\C#\1DAY\2-1. Hello\TEST\bin\Debug\net5.0\TEST.runtimeconfig.dev.json
+D:\C#\1DAY\2-1. Hello\TEST\bin\Debug\net5.0\TEST.dll
+D:\C#\1DAY\2-1. Hello\TEST\bin\Debug\net5.0\ref\TEST.dll
+D:\C#\1DAY\2-1. Hello\TEST\bin\Debug\net5.0\TEST.pdb
+D:\C#\1DAY\2-1. Hello\TEST\obj\Debug\net5.0\TEST.csproj.AssemblyReference.cache
+D:\C#\1DAY\2-1. Hello\TEST\obj\Debug\net5.0\TEST.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\1DAY\2-1. Hello\TEST\obj\Debug\net5.0\TEST.AssemblyInfoInputs.cache
+D:\C#\1DAY\2-1. Hello\TEST\obj\Debug\net5.0\TEST.AssemblyInfo.cs
+D:\C#\1DAY\2-1. Hello\TEST\obj\Debug\net5.0\TEST.csproj.CoreCompileInputs.cache
+D:\C#\1DAY\2-1. Hello\TEST\obj\Debug\net5.0\TEST.dll
+D:\C#\1DAY\2-1. Hello\TEST\obj\Debug\net5.0\ref\TEST.dll
+D:\C#\1DAY\2-1. Hello\TEST\obj\Debug\net5.0\TEST.pdb
+D:\C#\1DAY\2-1. Hello\TEST\obj\Debug\net5.0\TEST.genruntimeconfig.cache

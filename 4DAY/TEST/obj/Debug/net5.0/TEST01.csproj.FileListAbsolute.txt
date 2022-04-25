@@ -1,0 +1,15 @@
+D:\C#\4DAY\TEST\bin\Debug\net5.0\TEST01.exe
+D:\C#\4DAY\TEST\bin\Debug\net5.0\TEST01.deps.json
+D:\C#\4DAY\TEST\bin\Debug\net5.0\TEST01.runtimeconfig.json
+D:\C#\4DAY\TEST\bin\Debug\net5.0\TEST01.runtimeconfig.dev.json
+D:\C#\4DAY\TEST\bin\Debug\net5.0\TEST01.dll
+D:\C#\4DAY\TEST\bin\Debug\net5.0\ref\TEST01.dll
+D:\C#\4DAY\TEST\bin\Debug\net5.0\TEST01.pdb
+D:\C#\4DAY\TEST\obj\Debug\net5.0\TEST01.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\4DAY\TEST\obj\Debug\net5.0\TEST01.AssemblyInfoInputs.cache
+D:\C#\4DAY\TEST\obj\Debug\net5.0\TEST01.AssemblyInfo.cs
+D:\C#\4DAY\TEST\obj\Debug\net5.0\TEST01.csproj.CoreCompileInputs.cache
+D:\C#\4DAY\TEST\obj\Debug\net5.0\TEST01.dll
+D:\C#\4DAY\TEST\obj\Debug\net5.0\ref\TEST01.dll
+D:\C#\4DAY\TEST\obj\Debug\net5.0\TEST01.pdb
+D:\C#\4DAY\TEST\obj\Debug\net5.0\TEST01.genruntimeconfig.cache
