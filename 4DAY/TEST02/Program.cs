@@ -54,7 +54,7 @@ namespace TEST02
                 Unit u = (Unit)r;
                 while (u.hitPoint != u.MAX_HP)
                 {
-                    /* Unit의 HP를 증가시킨다. */
+                    /* Unit의 HP를 증가 */
                     u.hitPoint++;
                 }
                 Console.WriteLine(u.GetType().Name + "의 수리가 끝났습니다.");

@@ -4,3 +4,10 @@ E:\회사\나우캠퍼스\무료강좌\C# 언어\소스\new_12강\ConsoleApplica
 E:\회사\나우캠퍼스\무료강좌\C# 언어\소스\new_12강\ConsoleApplication7\ConsoleApplication7\obj\Debug\ConsoleApplication7.csprojResolveAssemblyReference.cache
 E:\회사\나우캠퍼스\무료강좌\C# 언어\소스\new_12강\ConsoleApplication7\ConsoleApplication7\obj\Debug\ConsoleApplication7.exe
 E:\회사\나우캠퍼스\무료강좌\C# 언어\소스\new_12강\ConsoleApplication7\ConsoleApplication7\obj\Debug\ConsoleApplication7.pdb
+D:\C#\C# youtube\12강\ConsoleApplication7\ConsoleApplication7\bin\Debug\ConsoleApplication7.exe.config
+D:\C#\C# youtube\12강\ConsoleApplication7\ConsoleApplication7\bin\Debug\ConsoleApplication7.exe
+D:\C#\C# youtube\12강\ConsoleApplication7\ConsoleApplication7\bin\Debug\ConsoleApplication7.pdb
+D:\C#\C# youtube\12강\ConsoleApplication7\ConsoleApplication7\obj\Debug\ConsoleApplication7.csproj.AssemblyReference.cache
+D:\C#\C# youtube\12강\ConsoleApplication7\ConsoleApplication7\obj\Debug\ConsoleApplication7.csproj.CoreCompileInputs.cache
+D:\C#\C# youtube\12강\ConsoleApplication7\ConsoleApplication7\obj\Debug\ConsoleApplication7.exe
+D:\C#\C# youtube\12강\ConsoleApplication7\ConsoleApplication7\obj\Debug\ConsoleApplication7.pdb

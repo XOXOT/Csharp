@@ -8,7 +8,8 @@ namespace ConsoleApplication4
 {
     class A
     {
-        public virtual void Print()
+        public virtual void Print() 
+        //virtual로 하위 클래스에서 재정의 한다는 이야기 그래서 당연히 public이 와야함
         {
             Console.WriteLine("A Print");
         } 
@@ -29,8 +30,11 @@ namespace ConsoleApplication4
             B Test = new B();
             Test.Print();
 
-            A Test1 = Test;
+            A Test1 = Test; //B클래스에서 재정의를 했으므로 B Print가 나옴 
             Test1.Print();
+
+            A Test2 = new A();
+            Test2.Print();
         }
     }
 }
