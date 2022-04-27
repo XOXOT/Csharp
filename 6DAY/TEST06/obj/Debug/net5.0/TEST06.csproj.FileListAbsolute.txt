@@ -1,0 +1,16 @@
+D:\C#\6DAY\TEST06\bin\Debug\net5.0\TEST06.exe
+D:\C#\6DAY\TEST06\bin\Debug\net5.0\TEST06.deps.json
+D:\C#\6DAY\TEST06\bin\Debug\net5.0\TEST06.runtimeconfig.json
+D:\C#\6DAY\TEST06\bin\Debug\net5.0\TEST06.runtimeconfig.dev.json
+D:\C#\6DAY\TEST06\bin\Debug\net5.0\TEST06.dll
+D:\C#\6DAY\TEST06\bin\Debug\net5.0\ref\TEST06.dll
+D:\C#\6DAY\TEST06\bin\Debug\net5.0\TEST06.pdb
+D:\C#\6DAY\TEST06\obj\Debug\net5.0\TEST06.csproj.AssemblyReference.cache
+D:\C#\6DAY\TEST06\obj\Debug\net5.0\TEST06.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\6DAY\TEST06\obj\Debug\net5.0\TEST06.AssemblyInfoInputs.cache
+D:\C#\6DAY\TEST06\obj\Debug\net5.0\TEST06.AssemblyInfo.cs
+D:\C#\6DAY\TEST06\obj\Debug\net5.0\TEST06.csproj.CoreCompileInputs.cache
+D:\C#\6DAY\TEST06\obj\Debug\net5.0\TEST06.dll
+D:\C#\6DAY\TEST06\obj\Debug\net5.0\ref\TEST06.dll
+D:\C#\6DAY\TEST06\obj\Debug\net5.0\TEST06.pdb
+D:\C#\6DAY\TEST06\obj\Debug\net5.0\TEST06.genruntimeconfig.cache
