@@ -5,14 +5,14 @@ namespace Ex4ForClass
 {
     public interface Observer
     {
-        public void update(string msg);
+        public void update(string msg); //Subject가 갱신된 내용을 전달하는 메소드
     }
 
     public interface Subject
     {
-        public void registerObserver(Observer o);
-        public void removeObserver(Observer o);
-        public void notifyObservers();
+        public void registerObserver(Observer o);//구독자 추가
+        public void removeObserver(Observer o); // 구독자 삭제
+        public void notifyObservers(); // 구독자 알림 
     }
 
     class AnnouncementForStudent : Subject
