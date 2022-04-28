@@ -1,0 +1,6 @@
+E:\회사\나우캠퍼스\무료강좌\C# 언어\소스\new_10강\test0\test0\bin\Debug\test0.exe.config
+E:\회사\나우캠퍼스\무료강좌\C# 언어\소스\new_10강\test0\test0\bin\Debug\test0.exe
+E:\회사\나우캠퍼스\무료강좌\C# 언어\소스\new_10강\test0\test0\bin\Debug\test0.pdb
+E:\회사\나우캠퍼스\무료강좌\C# 언어\소스\new_10강\test0\test0\obj\Debug\test0.csprojResolveAssemblyReference.cache
+E:\회사\나우캠퍼스\무료강좌\C# 언어\소스\new_10강\test0\test0\obj\Debug\test0.exe
+E:\회사\나우캠퍼스\무료강좌\C# 언어\소스\new_10강\test0\test0\obj\Debug\test0.pdb

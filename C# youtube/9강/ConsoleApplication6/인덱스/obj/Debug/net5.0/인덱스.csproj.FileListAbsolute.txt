@@ -1,0 +1,16 @@
+D:\C#\C# youtube\9강\ConsoleApplication6\인덱스\bin\Debug\net5.0\인덱스.exe
+D:\C#\C# youtube\9강\ConsoleApplication6\인덱스\bin\Debug\net5.0\인덱스.deps.json
+D:\C#\C# youtube\9강\ConsoleApplication6\인덱스\bin\Debug\net5.0\인덱스.runtimeconfig.json
+D:\C#\C# youtube\9강\ConsoleApplication6\인덱스\bin\Debug\net5.0\인덱스.runtimeconfig.dev.json
+D:\C#\C# youtube\9강\ConsoleApplication6\인덱스\bin\Debug\net5.0\인덱스.dll
+D:\C#\C# youtube\9강\ConsoleApplication6\인덱스\bin\Debug\net5.0\ref\인덱스.dll
+D:\C#\C# youtube\9강\ConsoleApplication6\인덱스\bin\Debug\net5.0\인덱스.pdb
+D:\C#\C# youtube\9강\ConsoleApplication6\인덱스\obj\Debug\net5.0\인덱스.csproj.AssemblyReference.cache
+D:\C#\C# youtube\9강\ConsoleApplication6\인덱스\obj\Debug\net5.0\인덱스.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\C# youtube\9강\ConsoleApplication6\인덱스\obj\Debug\net5.0\인덱스.AssemblyInfoInputs.cache
+D:\C#\C# youtube\9강\ConsoleApplication6\인덱스\obj\Debug\net5.0\인덱스.AssemblyInfo.cs
+D:\C#\C# youtube\9강\ConsoleApplication6\인덱스\obj\Debug\net5.0\인덱스.csproj.CoreCompileInputs.cache
+D:\C#\C# youtube\9강\ConsoleApplication6\인덱스\obj\Debug\net5.0\인덱스.dll
+D:\C#\C# youtube\9강\ConsoleApplication6\인덱스\obj\Debug\net5.0\ref\인덱스.dll
+D:\C#\C# youtube\9강\ConsoleApplication6\인덱스\obj\Debug\net5.0\인덱스.pdb
+D:\C#\C# youtube\9강\ConsoleApplication6\인덱스\obj\Debug\net5.0\인덱스.genruntimeconfig.cache
