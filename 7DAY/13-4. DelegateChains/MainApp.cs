@@ -42,7 +42,7 @@ namespace DelegateChains
             notifier.EventOccured -= listener2.SomethingHappend;
             notifier.EventOccured("Download complete.");
 
-            Console.WriteLine();
+            Console.WriteLine(); 
 
             notifier.EventOccured = new Notify(listener2.SomethingHappend) 
                                   + new Notify(listener3.SomethingHappend);
