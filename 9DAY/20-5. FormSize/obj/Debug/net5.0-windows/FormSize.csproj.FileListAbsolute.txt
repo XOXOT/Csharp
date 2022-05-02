@@ -1,0 +1,16 @@
+D:\C#\9DAY\20-5. FormSize\bin\Debug\net5.0-windows\FormSize.exe
+D:\C#\9DAY\20-5. FormSize\bin\Debug\net5.0-windows\FormSize.deps.json
+D:\C#\9DAY\20-5. FormSize\bin\Debug\net5.0-windows\FormSize.runtimeconfig.json
+D:\C#\9DAY\20-5. FormSize\bin\Debug\net5.0-windows\FormSize.runtimeconfig.dev.json
+D:\C#\9DAY\20-5. FormSize\bin\Debug\net5.0-windows\FormSize.dll
+D:\C#\9DAY\20-5. FormSize\bin\Debug\net5.0-windows\ref\FormSize.dll
+D:\C#\9DAY\20-5. FormSize\bin\Debug\net5.0-windows\FormSize.pdb
+D:\C#\9DAY\20-5. FormSize\obj\Debug\net5.0-windows\FormSize.csproj.AssemblyReference.cache
+D:\C#\9DAY\20-5. FormSize\obj\Debug\net5.0-windows\FormSize.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\9DAY\20-5. FormSize\obj\Debug\net5.0-windows\FormSize.AssemblyInfoInputs.cache
+D:\C#\9DAY\20-5. FormSize\obj\Debug\net5.0-windows\FormSize.AssemblyInfo.cs
+D:\C#\9DAY\20-5. FormSize\obj\Debug\net5.0-windows\FormSize.csproj.CoreCompileInputs.cache
+D:\C#\9DAY\20-5. FormSize\obj\Debug\net5.0-windows\FormSize.dll
+D:\C#\9DAY\20-5. FormSize\obj\Debug\net5.0-windows\ref\FormSize.dll
+D:\C#\9DAY\20-5. FormSize\obj\Debug\net5.0-windows\FormSize.pdb
+D:\C#\9DAY\20-5. FormSize\obj\Debug\net5.0-windows\FormSize.genruntimeconfig.cache

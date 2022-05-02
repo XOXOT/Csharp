@@ -1,0 +1,16 @@
+D:\C#\9DAY\20-4. FormEvent\bin\Debug\net5.0-windows\FormEvent.exe
+D:\C#\9DAY\20-4. FormEvent\bin\Debug\net5.0-windows\FormEvent.deps.json
+D:\C#\9DAY\20-4. FormEvent\bin\Debug\net5.0-windows\FormEvent.runtimeconfig.json
+D:\C#\9DAY\20-4. FormEvent\bin\Debug\net5.0-windows\FormEvent.runtimeconfig.dev.json
+D:\C#\9DAY\20-4. FormEvent\bin\Debug\net5.0-windows\FormEvent.dll
+D:\C#\9DAY\20-4. FormEvent\bin\Debug\net5.0-windows\ref\FormEvent.dll
+D:\C#\9DAY\20-4. FormEvent\bin\Debug\net5.0-windows\FormEvent.pdb
+D:\C#\9DAY\20-4. FormEvent\obj\Debug\net5.0-windows\FormEvent.csproj.AssemblyReference.cache
+D:\C#\9DAY\20-4. FormEvent\obj\Debug\net5.0-windows\FormEvent.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\9DAY\20-4. FormEvent\obj\Debug\net5.0-windows\FormEvent.AssemblyInfoInputs.cache
+D:\C#\9DAY\20-4. FormEvent\obj\Debug\net5.0-windows\FormEvent.AssemblyInfo.cs
+D:\C#\9DAY\20-4. FormEvent\obj\Debug\net5.0-windows\FormEvent.csproj.CoreCompileInputs.cache
+D:\C#\9DAY\20-4. FormEvent\obj\Debug\net5.0-windows\FormEvent.dll
+D:\C#\9DAY\20-4. FormEvent\obj\Debug\net5.0-windows\ref\FormEvent.dll
+D:\C#\9DAY\20-4. FormEvent\obj\Debug\net5.0-windows\FormEvent.pdb
+D:\C#\9DAY\20-4. FormEvent\obj\Debug\net5.0-windows\FormEvent.genruntimeconfig.cache

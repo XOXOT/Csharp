@@ -1,0 +1,16 @@
+D:\C#\9DAY\20-1. SimpleWindow\bin\Debug\net5.0-windows\SimpleWindow.exe
+D:\C#\9DAY\20-1. SimpleWindow\bin\Debug\net5.0-windows\SimpleWindow.deps.json
+D:\C#\9DAY\20-1. SimpleWindow\bin\Debug\net5.0-windows\SimpleWindow.runtimeconfig.json
+D:\C#\9DAY\20-1. SimpleWindow\bin\Debug\net5.0-windows\SimpleWindow.runtimeconfig.dev.json
+D:\C#\9DAY\20-1. SimpleWindow\bin\Debug\net5.0-windows\SimpleWindow.dll
+D:\C#\9DAY\20-1. SimpleWindow\bin\Debug\net5.0-windows\ref\SimpleWindow.dll
+D:\C#\9DAY\20-1. SimpleWindow\bin\Debug\net5.0-windows\SimpleWindow.pdb
+D:\C#\9DAY\20-1. SimpleWindow\obj\Debug\net5.0-windows\SimpleWindow.csproj.AssemblyReference.cache
+D:\C#\9DAY\20-1. SimpleWindow\obj\Debug\net5.0-windows\SimpleWindow.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\9DAY\20-1. SimpleWindow\obj\Debug\net5.0-windows\SimpleWindow.AssemblyInfoInputs.cache
+D:\C#\9DAY\20-1. SimpleWindow\obj\Debug\net5.0-windows\SimpleWindow.AssemblyInfo.cs
+D:\C#\9DAY\20-1. SimpleWindow\obj\Debug\net5.0-windows\SimpleWindow.csproj.CoreCompileInputs.cache
+D:\C#\9DAY\20-1. SimpleWindow\obj\Debug\net5.0-windows\SimpleWindow.dll
+D:\C#\9DAY\20-1. SimpleWindow\obj\Debug\net5.0-windows\ref\SimpleWindow.dll
+D:\C#\9DAY\20-1. SimpleWindow\obj\Debug\net5.0-windows\SimpleWindow.pdb
+D:\C#\9DAY\20-1. SimpleWindow\obj\Debug\net5.0-windows\SimpleWindow.genruntimeconfig.cache

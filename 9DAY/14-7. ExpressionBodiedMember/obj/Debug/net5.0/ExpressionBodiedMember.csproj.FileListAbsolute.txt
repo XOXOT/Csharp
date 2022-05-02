@@ -1,0 +1,16 @@
+D:\C#\9DAY\ExpressionBodiedMember\bin\Debug\net5.0\ExpressionBodiedMember.exe
+D:\C#\9DAY\ExpressionBodiedMember\bin\Debug\net5.0\ExpressionBodiedMember.deps.json
+D:\C#\9DAY\ExpressionBodiedMember\bin\Debug\net5.0\ExpressionBodiedMember.runtimeconfig.json
+D:\C#\9DAY\ExpressionBodiedMember\bin\Debug\net5.0\ExpressionBodiedMember.runtimeconfig.dev.json
+D:\C#\9DAY\ExpressionBodiedMember\bin\Debug\net5.0\ExpressionBodiedMember.dll
+D:\C#\9DAY\ExpressionBodiedMember\bin\Debug\net5.0\ref\ExpressionBodiedMember.dll
+D:\C#\9DAY\ExpressionBodiedMember\bin\Debug\net5.0\ExpressionBodiedMember.pdb
+D:\C#\9DAY\ExpressionBodiedMember\obj\Debug\net5.0\ExpressionBodiedMember.csproj.AssemblyReference.cache
+D:\C#\9DAY\ExpressionBodiedMember\obj\Debug\net5.0\ExpressionBodiedMember.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\9DAY\ExpressionBodiedMember\obj\Debug\net5.0\ExpressionBodiedMember.AssemblyInfoInputs.cache
+D:\C#\9DAY\ExpressionBodiedMember\obj\Debug\net5.0\ExpressionBodiedMember.AssemblyInfo.cs
+D:\C#\9DAY\ExpressionBodiedMember\obj\Debug\net5.0\ExpressionBodiedMember.csproj.CoreCompileInputs.cache
+D:\C#\9DAY\ExpressionBodiedMember\obj\Debug\net5.0\ExpressionBodiedMember.dll
+D:\C#\9DAY\ExpressionBodiedMember\obj\Debug\net5.0\ref\ExpressionBodiedMember.dll
+D:\C#\9DAY\ExpressionBodiedMember\obj\Debug\net5.0\ExpressionBodiedMember.pdb
+D:\C#\9DAY\ExpressionBodiedMember\obj\Debug\net5.0\ExpressionBodiedMember.genruntimeconfig.cache

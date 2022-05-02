@@ -1,0 +1,16 @@
+D:\C#\9DAY\20-2. UsingApplication\bin\Debug\net5.0-windows\UsingApplication.exe
+D:\C#\9DAY\20-2. UsingApplication\bin\Debug\net5.0-windows\UsingApplication.deps.json
+D:\C#\9DAY\20-2. UsingApplication\bin\Debug\net5.0-windows\UsingApplication.runtimeconfig.json
+D:\C#\9DAY\20-2. UsingApplication\bin\Debug\net5.0-windows\UsingApplication.runtimeconfig.dev.json
+D:\C#\9DAY\20-2. UsingApplication\bin\Debug\net5.0-windows\UsingApplication.dll
+D:\C#\9DAY\20-2. UsingApplication\bin\Debug\net5.0-windows\ref\UsingApplication.dll
+D:\C#\9DAY\20-2. UsingApplication\bin\Debug\net5.0-windows\UsingApplication.pdb
+D:\C#\9DAY\20-2. UsingApplication\obj\Debug\net5.0-windows\UsingApplication.csproj.AssemblyReference.cache
+D:\C#\9DAY\20-2. UsingApplication\obj\Debug\net5.0-windows\UsingApplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\9DAY\20-2. UsingApplication\obj\Debug\net5.0-windows\UsingApplication.AssemblyInfoInputs.cache
+D:\C#\9DAY\20-2. UsingApplication\obj\Debug\net5.0-windows\UsingApplication.AssemblyInfo.cs
+D:\C#\9DAY\20-2. UsingApplication\obj\Debug\net5.0-windows\UsingApplication.csproj.CoreCompileInputs.cache
+D:\C#\9DAY\20-2. UsingApplication\obj\Debug\net5.0-windows\UsingApplication.dll
+D:\C#\9DAY\20-2. UsingApplication\obj\Debug\net5.0-windows\ref\UsingApplication.dll
+D:\C#\9DAY\20-2. UsingApplication\obj\Debug\net5.0-windows\UsingApplication.pdb
+D:\C#\9DAY\20-2. UsingApplication\obj\Debug\net5.0-windows\UsingApplication.genruntimeconfig.cache

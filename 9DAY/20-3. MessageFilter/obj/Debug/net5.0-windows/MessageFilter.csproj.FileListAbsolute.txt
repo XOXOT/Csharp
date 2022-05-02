@@ -1,0 +1,16 @@
+D:\C#\9DAY\20-3. MessageFilter\bin\Debug\net5.0-windows\MessageFilter.exe
+D:\C#\9DAY\20-3. MessageFilter\bin\Debug\net5.0-windows\MessageFilter.deps.json
+D:\C#\9DAY\20-3. MessageFilter\bin\Debug\net5.0-windows\MessageFilter.runtimeconfig.json
+D:\C#\9DAY\20-3. MessageFilter\bin\Debug\net5.0-windows\MessageFilter.runtimeconfig.dev.json
+D:\C#\9DAY\20-3. MessageFilter\bin\Debug\net5.0-windows\MessageFilter.dll
+D:\C#\9DAY\20-3. MessageFilter\bin\Debug\net5.0-windows\ref\MessageFilter.dll
+D:\C#\9DAY\20-3. MessageFilter\bin\Debug\net5.0-windows\MessageFilter.pdb
+D:\C#\9DAY\20-3. MessageFilter\obj\Debug\net5.0-windows\MessageFilter.csproj.AssemblyReference.cache
+D:\C#\9DAY\20-3. MessageFilter\obj\Debug\net5.0-windows\MessageFilter.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\9DAY\20-3. MessageFilter\obj\Debug\net5.0-windows\MessageFilter.AssemblyInfoInputs.cache
+D:\C#\9DAY\20-3. MessageFilter\obj\Debug\net5.0-windows\MessageFilter.AssemblyInfo.cs
+D:\C#\9DAY\20-3. MessageFilter\obj\Debug\net5.0-windows\MessageFilter.csproj.CoreCompileInputs.cache
+D:\C#\9DAY\20-3. MessageFilter\obj\Debug\net5.0-windows\MessageFilter.dll
+D:\C#\9DAY\20-3. MessageFilter\obj\Debug\net5.0-windows\ref\MessageFilter.dll
+D:\C#\9DAY\20-3. MessageFilter\obj\Debug\net5.0-windows\MessageFilter.pdb
+D:\C#\9DAY\20-3. MessageFilter\obj\Debug\net5.0-windows\MessageFilter.genruntimeconfig.cache

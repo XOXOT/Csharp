@@ -1,0 +1,16 @@
+D:\C#\9DAY\15-2. SimpleLinq\bin\Debug\net5.0\SimpleLinq.exe
+D:\C#\9DAY\15-2. SimpleLinq\bin\Debug\net5.0\SimpleLinq.deps.json
+D:\C#\9DAY\15-2. SimpleLinq\bin\Debug\net5.0\SimpleLinq.runtimeconfig.json
+D:\C#\9DAY\15-2. SimpleLinq\bin\Debug\net5.0\SimpleLinq.runtimeconfig.dev.json
+D:\C#\9DAY\15-2. SimpleLinq\bin\Debug\net5.0\SimpleLinq.dll
+D:\C#\9DAY\15-2. SimpleLinq\bin\Debug\net5.0\ref\SimpleLinq.dll
+D:\C#\9DAY\15-2. SimpleLinq\bin\Debug\net5.0\SimpleLinq.pdb
+D:\C#\9DAY\15-2. SimpleLinq\obj\Debug\net5.0\SimpleLinq.csproj.AssemblyReference.cache
+D:\C#\9DAY\15-2. SimpleLinq\obj\Debug\net5.0\SimpleLinq.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\9DAY\15-2. SimpleLinq\obj\Debug\net5.0\SimpleLinq.AssemblyInfoInputs.cache
+D:\C#\9DAY\15-2. SimpleLinq\obj\Debug\net5.0\SimpleLinq.AssemblyInfo.cs
+D:\C#\9DAY\15-2. SimpleLinq\obj\Debug\net5.0\SimpleLinq.csproj.CoreCompileInputs.cache
+D:\C#\9DAY\15-2. SimpleLinq\obj\Debug\net5.0\SimpleLinq.dll
+D:\C#\9DAY\15-2. SimpleLinq\obj\Debug\net5.0\ref\SimpleLinq.dll
+D:\C#\9DAY\15-2. SimpleLinq\obj\Debug\net5.0\SimpleLinq.pdb
+D:\C#\9DAY\15-2. SimpleLinq\obj\Debug\net5.0\SimpleLinq.genruntimeconfig.cache
