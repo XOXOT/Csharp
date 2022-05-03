@@ -1,0 +1,16 @@
+D:\C#\10DAY\18-7. TextFile\bin\Debug\net5.0\TextFile.exe
+D:\C#\10DAY\18-7. TextFile\bin\Debug\net5.0\TextFile.deps.json
+D:\C#\10DAY\18-7. TextFile\bin\Debug\net5.0\TextFile.runtimeconfig.json
+D:\C#\10DAY\18-7. TextFile\bin\Debug\net5.0\TextFile.runtimeconfig.dev.json
+D:\C#\10DAY\18-7. TextFile\bin\Debug\net5.0\TextFile.dll
+D:\C#\10DAY\18-7. TextFile\bin\Debug\net5.0\ref\TextFile.dll
+D:\C#\10DAY\18-7. TextFile\bin\Debug\net5.0\TextFile.pdb
+D:\C#\10DAY\18-7. TextFile\obj\Debug\net5.0\TextFile.csproj.AssemblyReference.cache
+D:\C#\10DAY\18-7. TextFile\obj\Debug\net5.0\TextFile.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\10DAY\18-7. TextFile\obj\Debug\net5.0\TextFile.AssemblyInfoInputs.cache
+D:\C#\10DAY\18-7. TextFile\obj\Debug\net5.0\TextFile.AssemblyInfo.cs
+D:\C#\10DAY\18-7. TextFile\obj\Debug\net5.0\TextFile.csproj.CoreCompileInputs.cache
+D:\C#\10DAY\18-7. TextFile\obj\Debug\net5.0\TextFile.dll
+D:\C#\10DAY\18-7. TextFile\obj\Debug\net5.0\ref\TextFile.dll
+D:\C#\10DAY\18-7. TextFile\obj\Debug\net5.0\TextFile.pdb
+D:\C#\10DAY\18-7. TextFile\obj\Debug\net5.0\TextFile.genruntimeconfig.cache

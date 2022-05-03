@@ -1,0 +1,16 @@
+D:\C#\10DAY\20-6. FormBackground\bin\Debug\net5.0-windows\FormBackground.exe
+D:\C#\10DAY\20-6. FormBackground\bin\Debug\net5.0-windows\FormBackground.deps.json
+D:\C#\10DAY\20-6. FormBackground\bin\Debug\net5.0-windows\FormBackground.runtimeconfig.json
+D:\C#\10DAY\20-6. FormBackground\bin\Debug\net5.0-windows\FormBackground.runtimeconfig.dev.json
+D:\C#\10DAY\20-6. FormBackground\bin\Debug\net5.0-windows\FormBackground.dll
+D:\C#\10DAY\20-6. FormBackground\bin\Debug\net5.0-windows\ref\FormBackground.dll
+D:\C#\10DAY\20-6. FormBackground\bin\Debug\net5.0-windows\FormBackground.pdb
+D:\C#\10DAY\20-6. FormBackground\obj\Debug\net5.0-windows\FormBackground.csproj.AssemblyReference.cache
+D:\C#\10DAY\20-6. FormBackground\obj\Debug\net5.0-windows\FormBackground.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\10DAY\20-6. FormBackground\obj\Debug\net5.0-windows\FormBackground.AssemblyInfoInputs.cache
+D:\C#\10DAY\20-6. FormBackground\obj\Debug\net5.0-windows\FormBackground.AssemblyInfo.cs
+D:\C#\10DAY\20-6. FormBackground\obj\Debug\net5.0-windows\FormBackground.csproj.CoreCompileInputs.cache
+D:\C#\10DAY\20-6. FormBackground\obj\Debug\net5.0-windows\FormBackground.dll
+D:\C#\10DAY\20-6. FormBackground\obj\Debug\net5.0-windows\ref\FormBackground.dll
+D:\C#\10DAY\20-6. FormBackground\obj\Debug\net5.0-windows\FormBackground.pdb
+D:\C#\10DAY\20-6. FormBackground\obj\Debug\net5.0-windows\FormBackground.genruntimeconfig.cache

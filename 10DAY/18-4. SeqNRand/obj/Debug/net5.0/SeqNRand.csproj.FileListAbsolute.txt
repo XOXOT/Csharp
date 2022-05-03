@@ -1,0 +1,16 @@
+D:\C#\10DAY\18-4. SeqNRand\bin\Debug\net5.0\SeqNRand.exe
+D:\C#\10DAY\18-4. SeqNRand\bin\Debug\net5.0\SeqNRand.deps.json
+D:\C#\10DAY\18-4. SeqNRand\bin\Debug\net5.0\SeqNRand.runtimeconfig.json
+D:\C#\10DAY\18-4. SeqNRand\bin\Debug\net5.0\SeqNRand.runtimeconfig.dev.json
+D:\C#\10DAY\18-4. SeqNRand\bin\Debug\net5.0\SeqNRand.dll
+D:\C#\10DAY\18-4. SeqNRand\bin\Debug\net5.0\ref\SeqNRand.dll
+D:\C#\10DAY\18-4. SeqNRand\bin\Debug\net5.0\SeqNRand.pdb
+D:\C#\10DAY\18-4. SeqNRand\obj\Debug\net5.0\SeqNRand.csproj.AssemblyReference.cache
+D:\C#\10DAY\18-4. SeqNRand\obj\Debug\net5.0\SeqNRand.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\10DAY\18-4. SeqNRand\obj\Debug\net5.0\SeqNRand.AssemblyInfoInputs.cache
+D:\C#\10DAY\18-4. SeqNRand\obj\Debug\net5.0\SeqNRand.AssemblyInfo.cs
+D:\C#\10DAY\18-4. SeqNRand\obj\Debug\net5.0\SeqNRand.csproj.CoreCompileInputs.cache
+D:\C#\10DAY\18-4. SeqNRand\obj\Debug\net5.0\SeqNRand.dll
+D:\C#\10DAY\18-4. SeqNRand\obj\Debug\net5.0\ref\SeqNRand.dll
+D:\C#\10DAY\18-4. SeqNRand\obj\Debug\net5.0\SeqNRand.pdb
+D:\C#\10DAY\18-4. SeqNRand\obj\Debug\net5.0\SeqNRand.genruntimeconfig.cache

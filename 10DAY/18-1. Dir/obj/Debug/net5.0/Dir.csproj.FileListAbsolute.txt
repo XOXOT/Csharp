@@ -1,0 +1,16 @@
+D:\C#\10DAY\18-1. Dir\bin\Debug\net5.0\Dir.exe
+D:\C#\10DAY\18-1. Dir\bin\Debug\net5.0\Dir.deps.json
+D:\C#\10DAY\18-1. Dir\bin\Debug\net5.0\Dir.runtimeconfig.json
+D:\C#\10DAY\18-1. Dir\bin\Debug\net5.0\Dir.runtimeconfig.dev.json
+D:\C#\10DAY\18-1. Dir\bin\Debug\net5.0\Dir.dll
+D:\C#\10DAY\18-1. Dir\bin\Debug\net5.0\ref\Dir.dll
+D:\C#\10DAY\18-1. Dir\bin\Debug\net5.0\Dir.pdb
+D:\C#\10DAY\18-1. Dir\obj\Debug\net5.0\Dir.csproj.AssemblyReference.cache
+D:\C#\10DAY\18-1. Dir\obj\Debug\net5.0\Dir.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\10DAY\18-1. Dir\obj\Debug\net5.0\Dir.AssemblyInfoInputs.cache
+D:\C#\10DAY\18-1. Dir\obj\Debug\net5.0\Dir.AssemblyInfo.cs
+D:\C#\10DAY\18-1. Dir\obj\Debug\net5.0\Dir.csproj.CoreCompileInputs.cache
+D:\C#\10DAY\18-1. Dir\obj\Debug\net5.0\Dir.dll
+D:\C#\10DAY\18-1. Dir\obj\Debug\net5.0\ref\Dir.dll
+D:\C#\10DAY\18-1. Dir\obj\Debug\net5.0\Dir.pdb
+D:\C#\10DAY\18-1. Dir\obj\Debug\net5.0\Dir.genruntimeconfig.cache

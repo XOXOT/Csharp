@@ -1,0 +1,16 @@
+D:\C#\10DAY\18-2. Touch\bin\Debug\net5.0\Touch.exe
+D:\C#\10DAY\18-2. Touch\bin\Debug\net5.0\Touch.deps.json
+D:\C#\10DAY\18-2. Touch\bin\Debug\net5.0\Touch.runtimeconfig.json
+D:\C#\10DAY\18-2. Touch\bin\Debug\net5.0\Touch.runtimeconfig.dev.json
+D:\C#\10DAY\18-2. Touch\bin\Debug\net5.0\Touch.dll
+D:\C#\10DAY\18-2. Touch\bin\Debug\net5.0\ref\Touch.dll
+D:\C#\10DAY\18-2. Touch\bin\Debug\net5.0\Touch.pdb
+D:\C#\10DAY\18-2. Touch\obj\Debug\net5.0\Touch.csproj.AssemblyReference.cache
+D:\C#\10DAY\18-2. Touch\obj\Debug\net5.0\Touch.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\10DAY\18-2. Touch\obj\Debug\net5.0\Touch.AssemblyInfoInputs.cache
+D:\C#\10DAY\18-2. Touch\obj\Debug\net5.0\Touch.AssemblyInfo.cs
+D:\C#\10DAY\18-2. Touch\obj\Debug\net5.0\Touch.csproj.CoreCompileInputs.cache
+D:\C#\10DAY\18-2. Touch\obj\Debug\net5.0\Touch.dll
+D:\C#\10DAY\18-2. Touch\obj\Debug\net5.0\ref\Touch.dll
+D:\C#\10DAY\18-2. Touch\obj\Debug\net5.0\Touch.pdb
+D:\C#\10DAY\18-2. Touch\obj\Debug\net5.0\Touch.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\C#\10DAY\20-8. FormAndControl\bin\Debug\net5.0-windows\FormAndControl.exe
+D:\C#\10DAY\20-8. FormAndControl\bin\Debug\net5.0-windows\FormAndControl.deps.json
+D:\C#\10DAY\20-8. FormAndControl\bin\Debug\net5.0-windows\FormAndControl.runtimeconfig.json
+D:\C#\10DAY\20-8. FormAndControl\bin\Debug\net5.0-windows\FormAndControl.runtimeconfig.dev.json
+D:\C#\10DAY\20-8. FormAndControl\bin\Debug\net5.0-windows\FormAndControl.dll
+D:\C#\10DAY\20-8. FormAndControl\bin\Debug\net5.0-windows\ref\FormAndControl.dll
+D:\C#\10DAY\20-8. FormAndControl\bin\Debug\net5.0-windows\FormAndControl.pdb
+D:\C#\10DAY\20-8. FormAndControl\obj\Debug\net5.0-windows\FormAndControl.csproj.AssemblyReference.cache
+D:\C#\10DAY\20-8. FormAndControl\obj\Debug\net5.0-windows\FormAndControl.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\10DAY\20-8. FormAndControl\obj\Debug\net5.0-windows\FormAndControl.AssemblyInfoInputs.cache
+D:\C#\10DAY\20-8. FormAndControl\obj\Debug\net5.0-windows\FormAndControl.AssemblyInfo.cs
+D:\C#\10DAY\20-8. FormAndControl\obj\Debug\net5.0-windows\FormAndControl.csproj.CoreCompileInputs.cache
+D:\C#\10DAY\20-8. FormAndControl\obj\Debug\net5.0-windows\FormAndControl.dll
+D:\C#\10DAY\20-8. FormAndControl\obj\Debug\net5.0-windows\ref\FormAndControl.dll
+D:\C#\10DAY\20-8. FormAndControl\obj\Debug\net5.0-windows\FormAndControl.pdb
+D:\C#\10DAY\20-8. FormAndControl\obj\Debug\net5.0-windows\FormAndControl.genruntimeconfig.cache
