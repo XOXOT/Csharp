@@ -1,0 +1,16 @@
+D:\C#\11DAY\19-4. InterruptingThread\bin\Debug\net5.0\InterruptingThread.exe
+D:\C#\11DAY\19-4. InterruptingThread\bin\Debug\net5.0\InterruptingThread.deps.json
+D:\C#\11DAY\19-4. InterruptingThread\bin\Debug\net5.0\InterruptingThread.runtimeconfig.json
+D:\C#\11DAY\19-4. InterruptingThread\bin\Debug\net5.0\InterruptingThread.runtimeconfig.dev.json
+D:\C#\11DAY\19-4. InterruptingThread\bin\Debug\net5.0\InterruptingThread.dll
+D:\C#\11DAY\19-4. InterruptingThread\bin\Debug\net5.0\ref\InterruptingThread.dll
+D:\C#\11DAY\19-4. InterruptingThread\bin\Debug\net5.0\InterruptingThread.pdb
+D:\C#\11DAY\19-4. InterruptingThread\obj\Debug\net5.0\InterruptingThread.csproj.AssemblyReference.cache
+D:\C#\11DAY\19-4. InterruptingThread\obj\Debug\net5.0\InterruptingThread.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\11DAY\19-4. InterruptingThread\obj\Debug\net5.0\InterruptingThread.AssemblyInfoInputs.cache
+D:\C#\11DAY\19-4. InterruptingThread\obj\Debug\net5.0\InterruptingThread.AssemblyInfo.cs
+D:\C#\11DAY\19-4. InterruptingThread\obj\Debug\net5.0\InterruptingThread.csproj.CoreCompileInputs.cache
+D:\C#\11DAY\19-4. InterruptingThread\obj\Debug\net5.0\InterruptingThread.dll
+D:\C#\11DAY\19-4. InterruptingThread\obj\Debug\net5.0\ref\InterruptingThread.dll
+D:\C#\11DAY\19-4. InterruptingThread\obj\Debug\net5.0\InterruptingThread.pdb
+D:\C#\11DAY\19-4. InterruptingThread\obj\Debug\net5.0\InterruptingThread.genruntimeconfig.cache

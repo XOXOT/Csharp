@@ -1,0 +1,16 @@
+D:\C#\11DAY\19-1. BasicThread\bin\Debug\net5.0\BasicThread.exe
+D:\C#\11DAY\19-1. BasicThread\bin\Debug\net5.0\BasicThread.deps.json
+D:\C#\11DAY\19-1. BasicThread\bin\Debug\net5.0\BasicThread.runtimeconfig.json
+D:\C#\11DAY\19-1. BasicThread\bin\Debug\net5.0\BasicThread.runtimeconfig.dev.json
+D:\C#\11DAY\19-1. BasicThread\bin\Debug\net5.0\BasicThread.dll
+D:\C#\11DAY\19-1. BasicThread\bin\Debug\net5.0\ref\BasicThread.dll
+D:\C#\11DAY\19-1. BasicThread\bin\Debug\net5.0\BasicThread.pdb
+D:\C#\11DAY\19-1. BasicThread\obj\Debug\net5.0\BasicThread.csproj.AssemblyReference.cache
+D:\C#\11DAY\19-1. BasicThread\obj\Debug\net5.0\BasicThread.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\11DAY\19-1. BasicThread\obj\Debug\net5.0\BasicThread.AssemblyInfoInputs.cache
+D:\C#\11DAY\19-1. BasicThread\obj\Debug\net5.0\BasicThread.AssemblyInfo.cs
+D:\C#\11DAY\19-1. BasicThread\obj\Debug\net5.0\BasicThread.csproj.CoreCompileInputs.cache
+D:\C#\11DAY\19-1. BasicThread\obj\Debug\net5.0\BasicThread.dll
+D:\C#\11DAY\19-1. BasicThread\obj\Debug\net5.0\ref\BasicThread.dll
+D:\C#\11DAY\19-1. BasicThread\obj\Debug\net5.0\BasicThread.pdb
+D:\C#\11DAY\19-1. BasicThread\obj\Debug\net5.0\BasicThread.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\C#\11DAY\19-2. AbortingThread\bin\Debug\net5.0\AbortingThread.exe
+D:\C#\11DAY\19-2. AbortingThread\bin\Debug\net5.0\AbortingThread.deps.json
+D:\C#\11DAY\19-2. AbortingThread\bin\Debug\net5.0\AbortingThread.runtimeconfig.json
+D:\C#\11DAY\19-2. AbortingThread\bin\Debug\net5.0\AbortingThread.runtimeconfig.dev.json
+D:\C#\11DAY\19-2. AbortingThread\bin\Debug\net5.0\AbortingThread.dll
+D:\C#\11DAY\19-2. AbortingThread\bin\Debug\net5.0\ref\AbortingThread.dll
+D:\C#\11DAY\19-2. AbortingThread\bin\Debug\net5.0\AbortingThread.pdb
+D:\C#\11DAY\19-2. AbortingThread\obj\Debug\net5.0\AbortingThread.csproj.AssemblyReference.cache
+D:\C#\11DAY\19-2. AbortingThread\obj\Debug\net5.0\AbortingThread.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\11DAY\19-2. AbortingThread\obj\Debug\net5.0\AbortingThread.AssemblyInfoInputs.cache
+D:\C#\11DAY\19-2. AbortingThread\obj\Debug\net5.0\AbortingThread.AssemblyInfo.cs
+D:\C#\11DAY\19-2. AbortingThread\obj\Debug\net5.0\AbortingThread.csproj.CoreCompileInputs.cache
+D:\C#\11DAY\19-2. AbortingThread\obj\Debug\net5.0\AbortingThread.dll
+D:\C#\11DAY\19-2. AbortingThread\obj\Debug\net5.0\ref\AbortingThread.dll
+D:\C#\11DAY\19-2. AbortingThread\obj\Debug\net5.0\AbortingThread.pdb
+D:\C#\11DAY\19-2. AbortingThread\obj\Debug\net5.0\AbortingThread.genruntimeconfig.cache
