@@ -1,0 +1,16 @@
+D:\C#\12DAY\19-8. UsingTask\bin\Debug\net5.0\UsingTask.exe
+D:\C#\12DAY\19-8. UsingTask\bin\Debug\net5.0\UsingTask.deps.json
+D:\C#\12DAY\19-8. UsingTask\bin\Debug\net5.0\UsingTask.runtimeconfig.json
+D:\C#\12DAY\19-8. UsingTask\bin\Debug\net5.0\UsingTask.runtimeconfig.dev.json
+D:\C#\12DAY\19-8. UsingTask\bin\Debug\net5.0\UsingTask.dll
+D:\C#\12DAY\19-8. UsingTask\bin\Debug\net5.0\ref\UsingTask.dll
+D:\C#\12DAY\19-8. UsingTask\bin\Debug\net5.0\UsingTask.pdb
+D:\C#\12DAY\19-8. UsingTask\obj\Debug\net5.0\UsingTask.csproj.AssemblyReference.cache
+D:\C#\12DAY\19-8. UsingTask\obj\Debug\net5.0\UsingTask.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\12DAY\19-8. UsingTask\obj\Debug\net5.0\UsingTask.AssemblyInfoInputs.cache
+D:\C#\12DAY\19-8. UsingTask\obj\Debug\net5.0\UsingTask.AssemblyInfo.cs
+D:\C#\12DAY\19-8. UsingTask\obj\Debug\net5.0\UsingTask.csproj.CoreCompileInputs.cache
+D:\C#\12DAY\19-8. UsingTask\obj\Debug\net5.0\UsingTask.dll
+D:\C#\12DAY\19-8. UsingTask\obj\Debug\net5.0\ref\UsingTask.dll
+D:\C#\12DAY\19-8. UsingTask\obj\Debug\net5.0\UsingTask.pdb
+D:\C#\12DAY\19-8. UsingTask\obj\Debug\net5.0\UsingTask.genruntimeconfig.cache
