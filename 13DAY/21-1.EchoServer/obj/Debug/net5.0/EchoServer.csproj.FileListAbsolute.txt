@@ -1,0 +1,16 @@
+D:\C#\13DAY\21-1. EchoServer\bin\Debug\net5.0\EchoServer.exe
+D:\C#\13DAY\21-1. EchoServer\bin\Debug\net5.0\EchoServer.deps.json
+D:\C#\13DAY\21-1. EchoServer\bin\Debug\net5.0\EchoServer.runtimeconfig.json
+D:\C#\13DAY\21-1. EchoServer\bin\Debug\net5.0\EchoServer.runtimeconfig.dev.json
+D:\C#\13DAY\21-1. EchoServer\bin\Debug\net5.0\EchoServer.dll
+D:\C#\13DAY\21-1. EchoServer\bin\Debug\net5.0\ref\EchoServer.dll
+D:\C#\13DAY\21-1. EchoServer\bin\Debug\net5.0\EchoServer.pdb
+D:\C#\13DAY\21-1. EchoServer\obj\Debug\net5.0\EchoServer.csproj.AssemblyReference.cache
+D:\C#\13DAY\21-1. EchoServer\obj\Debug\net5.0\EchoServer.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\13DAY\21-1. EchoServer\obj\Debug\net5.0\EchoServer.AssemblyInfoInputs.cache
+D:\C#\13DAY\21-1. EchoServer\obj\Debug\net5.0\EchoServer.AssemblyInfo.cs
+D:\C#\13DAY\21-1. EchoServer\obj\Debug\net5.0\EchoServer.csproj.CoreCompileInputs.cache
+D:\C#\13DAY\21-1. EchoServer\obj\Debug\net5.0\EchoServer.dll
+D:\C#\13DAY\21-1. EchoServer\obj\Debug\net5.0\ref\EchoServer.dll
+D:\C#\13DAY\21-1. EchoServer\obj\Debug\net5.0\EchoServer.pdb
+D:\C#\13DAY\21-1. EchoServer\obj\Debug\net5.0\EchoServer.genruntimeconfig.cache

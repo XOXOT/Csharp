@@ -1,0 +1,15 @@
+D:\C#\13DAY\21-2. EchoClient\bin\Debug\net5.0\EchoClient.exe
+D:\C#\13DAY\21-2. EchoClient\bin\Debug\net5.0\EchoClient.deps.json
+D:\C#\13DAY\21-2. EchoClient\bin\Debug\net5.0\EchoClient.runtimeconfig.json
+D:\C#\13DAY\21-2. EchoClient\bin\Debug\net5.0\EchoClient.runtimeconfig.dev.json
+D:\C#\13DAY\21-2. EchoClient\bin\Debug\net5.0\EchoClient.dll
+D:\C#\13DAY\21-2. EchoClient\bin\Debug\net5.0\ref\EchoClient.dll
+D:\C#\13DAY\21-2. EchoClient\bin\Debug\net5.0\EchoClient.pdb
+D:\C#\13DAY\21-2. EchoClient\obj\Debug\net5.0\EchoClient.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\13DAY\21-2. EchoClient\obj\Debug\net5.0\EchoClient.AssemblyInfoInputs.cache
+D:\C#\13DAY\21-2. EchoClient\obj\Debug\net5.0\EchoClient.AssemblyInfo.cs
+D:\C#\13DAY\21-2. EchoClient\obj\Debug\net5.0\EchoClient.csproj.CoreCompileInputs.cache
+D:\C#\13DAY\21-2. EchoClient\obj\Debug\net5.0\EchoClient.dll
+D:\C#\13DAY\21-2. EchoClient\obj\Debug\net5.0\ref\EchoClient.dll
+D:\C#\13DAY\21-2. EchoClient\obj\Debug\net5.0\EchoClient.pdb
+D:\C#\13DAY\21-2. EchoClient\obj\Debug\net5.0\EchoClient.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+D:\C#\13DAY\FileUpload\FUP\bin\Debug\net5.0\FUP.deps.json
+D:\C#\13DAY\FileUpload\FUP\bin\Debug\net5.0\FUP.dll
+D:\C#\13DAY\FileUpload\FUP\bin\Debug\net5.0\ref\FUP.dll
+D:\C#\13DAY\FileUpload\FUP\bin\Debug\net5.0\FUP.pdb
+D:\C#\13DAY\FileUpload\FUP\obj\Debug\net5.0\FUP.csproj.AssemblyReference.cache
+D:\C#\13DAY\FileUpload\FUP\obj\Debug\net5.0\FUP.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\13DAY\FileUpload\FUP\obj\Debug\net5.0\FUP.AssemblyInfoInputs.cache
+D:\C#\13DAY\FileUpload\FUP\obj\Debug\net5.0\FUP.AssemblyInfo.cs
+D:\C#\13DAY\FileUpload\FUP\obj\Debug\net5.0\FUP.csproj.CoreCompileInputs.cache
+D:\C#\13DAY\FileUpload\FUP\obj\Debug\net5.0\FUP.dll
+D:\C#\13DAY\FileUpload\FUP\obj\Debug\net5.0\ref\FUP.dll
+D:\C#\13DAY\FileUpload\FUP\obj\Debug\net5.0\FUP.pdb
