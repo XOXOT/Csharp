@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\C#\\13DAY\\FileUpload\\FileReceiver\\FileReceiver.csproj",
+      "projectUniqueName": "D:\\C#\\13,14DAY\\FileUpload\\FileReceiver\\FileReceiver.csproj",
       "projectName": "FileReceiver",
-      "projectPath": "D:\\C#\\13DAY\\FileUpload\\FileReceiver\\FileReceiver.csproj",
+      "projectPath": "D:\\C#\\13,14DAY\\FileUpload\\FileReceiver\\FileReceiver.csproj",
       "packagesPath": "C:\\Users\\pknu\\.nuget\\packages\\",
-      "outputPath": "D:\\C#\\13DAY\\FileUpload\\FileReceiver\\obj\\",
+      "outputPath": "D:\\C#\\13,14DAY\\FileUpload\\FileReceiver\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\pknu\\AppData\\Roaming\\NuGet\\NuGet.Config",
