@@ -1,0 +1,9 @@
+D:\C#\15DAY\ReadNullValue\bin\Debug\ReadNullValue.exe.config
+D:\C#\15DAY\ReadNullValue\bin\Debug\ReadNullValue.exe
+D:\C#\15DAY\ReadNullValue\bin\Debug\ReadNullValue.pdb
+D:\C#\15DAY\ReadNullValue\obj\Debug\ReadNullValue.Form1.resources
+D:\C#\15DAY\ReadNullValue\obj\Debug\ReadNullValue.Properties.Resources.resources
+D:\C#\15DAY\ReadNullValue\obj\Debug\ReadNullValue.csproj.GenerateResource.cache
+D:\C#\15DAY\ReadNullValue\obj\Debug\ReadNullValue.csproj.CoreCompileInputs.cache
+D:\C#\15DAY\ReadNullValue\obj\Debug\ReadNullValue.exe
+D:\C#\15DAY\ReadNullValue\obj\Debug\ReadNullValue.pdb

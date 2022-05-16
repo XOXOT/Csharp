@@ -1,0 +1,10 @@
+D:\C#\15DAY\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\C#\15DAY\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\C#\15DAY\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\C#\15DAY\WindowsFormsApp1\obj\Debug\ConnectionEvent.csproj.AssemblyReference.cache
+D:\C#\15DAY\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\C#\15DAY\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\C#\15DAY\WindowsFormsApp1\obj\Debug\ConnectionEvent.csproj.GenerateResource.cache
+D:\C#\15DAY\WindowsFormsApp1\obj\Debug\ConnectionEvent.csproj.CoreCompileInputs.cache
+D:\C#\15DAY\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\C#\15DAY\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

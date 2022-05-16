@@ -1,0 +1,10 @@
+D:\C#\15DAY\CommandTest\bin\Debug\CommandTest.exe.config
+D:\C#\15DAY\CommandTest\bin\Debug\CommandTest.exe
+D:\C#\15DAY\CommandTest\bin\Debug\CommandTest.pdb
+D:\C#\15DAY\CommandTest\obj\Debug\CommandTest.Form1.resources
+D:\C#\15DAY\CommandTest\obj\Debug\CommandTest.Properties.Resources.resources
+D:\C#\15DAY\CommandTest\obj\Debug\CommandTest.csproj.GenerateResource.cache
+D:\C#\15DAY\CommandTest\obj\Debug\CommandTest.csproj.CoreCompileInputs.cache
+D:\C#\15DAY\CommandTest\obj\Debug\CommandTest.exe
+D:\C#\15DAY\CommandTest\obj\Debug\CommandTest.pdb
+D:\C#\15DAY\CommandTest\obj\Debug\CommandTest.csproj.AssemblyReference.cache
