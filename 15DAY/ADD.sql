@@ -24,6 +24,7 @@ INSERT INTO tblSale (Customer, Item, ODate) VALUES ('김태희', '핸드폰', '2008/1/
 INSERT INTO tblSale (Customer, Item, ODate) VALUES ('김태희', '휘발유', '2008/1/4');
 GO
 SELECT *FROM tblPeople;
+SELECT *FROM tblSale;
 GO
 UPDATE tblPeople SET Age = 36 WHERE Name = '정우성';
 UPDATE tblPeople SET Age = 32 WHERE Name = '고소영';
@@ -31,6 +32,7 @@ UPDATE tblPeople SET Age = 37 WHERE Name = '배용준';
 UPDATE tblPeople SET Age = 29 WHERE Name = '김태희';
 GO
 DELETE tblPeople WHERE Name = '춘이';
+DELETE tblPeople WHERE Name = '훈이';
 GO
 --프로시저 생성
 CREATE PROCEDURE IncAllAge
