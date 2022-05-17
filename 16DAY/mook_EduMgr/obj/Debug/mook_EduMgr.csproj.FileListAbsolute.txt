@@ -1,0 +1,12 @@
+D:\C#\16DAY\mook_EduMgr\bin\Debug\mook_EduMgr.exe.config
+D:\C#\16DAY\mook_EduMgr\bin\Debug\mook_EduMgr.exe
+D:\C#\16DAY\mook_EduMgr\bin\Debug\mook_EduMgr.pdb
+D:\C#\16DAY\mook_EduMgr\obj\Debug\mook_EduMgr.csproj.AssemblyReference.cache
+D:\C#\16DAY\mook_EduMgr\obj\Debug\mook_EduMgr.Form1.resources
+D:\C#\16DAY\mook_EduMgr\obj\Debug\mook_EduMgr.Form2.resources
+D:\C#\16DAY\mook_EduMgr\obj\Debug\mook_EduMgr.Form3.resources
+D:\C#\16DAY\mook_EduMgr\obj\Debug\mook_EduMgr.Properties.Resources.resources
+D:\C#\16DAY\mook_EduMgr\obj\Debug\mook_EduMgr.csproj.GenerateResource.cache
+D:\C#\16DAY\mook_EduMgr\obj\Debug\mook_EduMgr.csproj.CoreCompileInputs.cache
+D:\C#\16DAY\mook_EduMgr\obj\Debug\mook_EduMgr.exe
+D:\C#\16DAY\mook_EduMgr\obj\Debug\mook_EduMgr.pdb

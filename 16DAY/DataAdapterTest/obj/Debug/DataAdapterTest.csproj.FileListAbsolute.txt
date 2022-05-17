@@ -1,0 +1,10 @@
+D:\C#\16DAY\DataAdapterTest\bin\Debug\DataAdapterTest.exe.config
+D:\C#\16DAY\DataAdapterTest\bin\Debug\DataAdapterTest.exe
+D:\C#\16DAY\DataAdapterTest\bin\Debug\DataAdapterTest.pdb
+D:\C#\16DAY\DataAdapterTest\obj\Debug\DataAdapterTest.csproj.AssemblyReference.cache
+D:\C#\16DAY\DataAdapterTest\obj\Debug\DataAdapterTest.Form1.resources
+D:\C#\16DAY\DataAdapterTest\obj\Debug\DataAdapterTest.Properties.Resources.resources
+D:\C#\16DAY\DataAdapterTest\obj\Debug\DataAdapterTest.csproj.GenerateResource.cache
+D:\C#\16DAY\DataAdapterTest\obj\Debug\DataAdapterTest.csproj.CoreCompileInputs.cache
+D:\C#\16DAY\DataAdapterTest\obj\Debug\DataAdapterTest.exe
+D:\C#\16DAY\DataAdapterTest\obj\Debug\DataAdapterTest.pdb

@@ -1,0 +1,10 @@
+D:\C#\16DAY\GetChangesTest\bin\Debug\GetChangesTest.exe.config
+D:\C#\16DAY\GetChangesTest\bin\Debug\GetChangesTest.exe
+D:\C#\16DAY\GetChangesTest\bin\Debug\GetChangesTest.pdb
+D:\C#\16DAY\GetChangesTest\obj\Debug\GetChangesTest.csproj.AssemblyReference.cache
+D:\C#\16DAY\GetChangesTest\obj\Debug\GetChangesTest.Form1.resources
+D:\C#\16DAY\GetChangesTest\obj\Debug\GetChangesTest.Properties.Resources.resources
+D:\C#\16DAY\GetChangesTest\obj\Debug\GetChangesTest.csproj.GenerateResource.cache
+D:\C#\16DAY\GetChangesTest\obj\Debug\GetChangesTest.csproj.CoreCompileInputs.cache
+D:\C#\16DAY\GetChangesTest\obj\Debug\GetChangesTest.exe
+D:\C#\16DAY\GetChangesTest\obj\Debug\GetChangesTest.pdb
