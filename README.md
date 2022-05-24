@@ -66,7 +66,6 @@ ___
 #### [ADO.Net 예제](https://github.com/XOXOT/Csharp/tree/main/16DAY)
 ___ 
 ### 17DAY
-#### [ADO.Net 예제](https://github.com/XOXOT/Csharp/tree/main/16DAY)
 ## ✍🏻 Test ✍🏻
 #### [🗒Test 파일](https://github.com/XOXOT/Csharp/blob/main/17DAY/%ED%8F%89%EA%B0%80_%EC%88%98%EC%A0%95%EB%B3%B8.pdf)
 
