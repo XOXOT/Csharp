@@ -53,9 +53,6 @@ ___
 #### 16장 - [리플렉션과 애트리뷰트](https://github.com/XOXOT/Csharp/tree/main/12DAY)
 #### 20장 - [WINFORM 최종예제](https://github.com/XOXOT/Csharp/tree/main/12DAY/20.%20AsyncFileIOWinForm)
 ___ 
-### 13DAY
-#### 21장 - [네트워크 프로그래밍](https://github.com/XOXOT/Csharp/tree/main/13%2C14DAY)
-___ 
 ### 13DAY,14DAY
 #### 21장 - [네트워크 프로그래밍](https://github.com/XOXOT/Csharp/tree/main/13%2C14DAY)
 ___ 
