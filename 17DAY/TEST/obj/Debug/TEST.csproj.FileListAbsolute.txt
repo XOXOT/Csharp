@@ -1,0 +1,10 @@
+D:\C#\17DAY\TEST\bin\Debug\TEST.exe.config
+D:\C#\17DAY\TEST\bin\Debug\TEST.exe
+D:\C#\17DAY\TEST\bin\Debug\TEST.pdb
+D:\C#\17DAY\TEST\obj\Debug\TEST.csproj.AssemblyReference.cache
+D:\C#\17DAY\TEST\obj\Debug\TEST.Form1.resources
+D:\C#\17DAY\TEST\obj\Debug\TEST.Properties.Resources.resources
+D:\C#\17DAY\TEST\obj\Debug\TEST.csproj.GenerateResource.cache
+D:\C#\17DAY\TEST\obj\Debug\TEST.csproj.CoreCompileInputs.cache
+D:\C#\17DAY\TEST\obj\Debug\TEST.exe
+D:\C#\17DAY\TEST\obj\Debug\TEST.pdb
