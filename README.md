@@ -70,7 +70,8 @@ ___
 ### 17DAY
 ## ✍🏻 Test ✍🏻
 #### [🗒Test 파일](https://github.com/XOXOT/Csharp/blob/main/17DAY/%ED%8F%89%EA%B0%80_%EC%88%98%EC%A0%95%EB%B3%B8.pdf)
-### [📝 SQL 연동 차량 관리 프로그램 📝](https://github.com/XOXOT/Csharp/blob/main/17DAY/mook_CarInfo%20-%20%EC%A3%BC%EC%84%9D%20%EB%B2%84%EC%A0%84(%EC%88%98%EC%A0%95)/Form1.cs)
-<img src = https://github.com/XOXOT/Csharp/blob/main/img/%EC%B0%A8%EB%9F%89%20%EC%A0%95%EB%B3%B4%20%EA%B4%80%EB%A6%AC.gif>
+### [📝 SQL 연동 차량 관리 프로그램 📝]()
+
+<img src = >
 
 ## [🔙BACK](https://github.com/XOXOT?tab=repositories)
