@@ -67,6 +67,7 @@ ___
 ### [📝 SQL 연동 학생 관리 프로그램 📝](https://github.com/XOXOT/Csharp/tree/main/16DAY/%EC%8B%A4%EC%8A%B5/mook_EduMgr/mook_EduMgr)
 <img src = https://github.com/XOXOT/Csharp/blob/main/img/%ED%95%99%EC%83%9D%EC%A0%95%EB%B3%B4%EA%B4%80%EB%A6%AC.gif>
 ___ 
+
 ### 17DAY
 ## ✍🏻 Test ✍🏻
 #### [🗒Test 파일](https://github.com/XOXOT/Csharp/blob/main/17DAY/%ED%8F%89%EA%B0%80_%EC%88%98%EC%A0%95%EB%B3%B8.pdf)
